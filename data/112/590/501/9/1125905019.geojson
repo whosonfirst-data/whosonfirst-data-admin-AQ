@@ -1,0 +1,156 @@
+{
+  "id": 1125905019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.00073,-66.55836,93.00073,-66.55836",
+    "geom:latitude":-66.55836,
+    "geom:longitude":93.00073,
+    "gn:gn_country":"AQ",
+    "gn:gn_fcode":"STNB",
+    "gn:gn_pop":169,
+    "gn:population":169,
+    "iso:country":"AQ",
+    "lbl:latitude":-66.55836,
+    "lbl:longitude":93.00073,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0544\u056b\u057c\u0576\u056b"
+    ],
+    "name:chi_x_preferred":[
+        "\u7c73\u723e\u5c3c\u7ad9"
+    ],
+    "name:cze_x_preferred":[
+        "Mirnyj"
+    ],
+    "name:dut_x_preferred":[
+        "Mirniy"
+    ],
+    "name:eng_x_preferred":[
+        "Mirny Station (Russia)"
+    ],
+    "name:eng_x_variant":[
+        "Mirny Station"
+    ],
+    "name:fin_x_preferred":[
+        "Mirnyi"
+    ],
+    "name:fre_x_preferred":[
+        "base antarctique Mirny"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d8\u10e0\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d3\u10d2\u10e3\u10e0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Mirny-Station"
+    ],
+    "name:hun_x_preferred":[
+        "Mirnij kutat\u00f3\u00e1llom\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Mirnyj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30fc\u30eb\u30cc\u30a4\u57fa\u5730"
+    ],
+    "name:lav_x_preferred":[
+        "Mirnija"
+    ],
+    "name:nno_x_preferred":[
+        "Mirny-stasjonen"
+    ],
+    "name:nob_x_preferred":[
+        "Mirnyj"
+    ],
+    "name:nor_x_preferred":[
+        "Mirny-stasjonen (Russland)"
+    ],
+    "name:nor_x_variant":[
+        "Mirny"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0438\u0440\u043d\u044b\u0439"
+    ],
+    "name:pol_x_preferred":[
+        "Mirnyj"
+    ],
+    "name:por_x_preferred":[
+        "Esta\u00e7\u00e3o Mirny"
+    ],
+    "name:rum_x_preferred":[
+        "Sta\u021bia Mirny"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u043d\u044b\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Base Mirni"
+    ],
+    "name:swe_x_preferred":[
+        "Mirnyj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0440\u043d\u0438\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Mirny"
+    ],
+    "qs_pg:aaroncc":"AQ",
+    "qs_pg:gn_country":"AQ",
+    "qs_pg:gn_fcode":"STNB",
+    "qs_pg:gn_id":6620772,
+    "qs_pg:gn_pop":169,
+    "qs_pg:name":"Mirny Station",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1053799,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6620772,
+        "qs_pg:id":1053799,
+        "wd:id":"Q646492"
+    },
+    "wof:country":"AQ",
+    "wof:created":1497295954,
+    "wof:geomhash":"8de967e50580d66b90c347624f0c0d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125905019,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125905019,
+    "wof:lastmodified":1534379078,
+    "wof:name":"Mirny Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141908429
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.00073,
+    -66.55836,
+    93.00073,
+    -66.55836
+],
+  "geometry": {"coordinates":[93.00073,-66.55835999999999],"type":"Point"}
+}

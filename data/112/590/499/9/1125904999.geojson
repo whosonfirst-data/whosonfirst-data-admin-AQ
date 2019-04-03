@@ -1,0 +1,125 @@
+{
+  "id": 1125904999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.78333,-62.22,-58.78333,-62.22",
+    "geom:latitude":-62.22,
+    "geom:longitude":-58.78333,
+    "gn:gn_country":"AQ",
+    "gn:gn_fcode":"STNB",
+    "gn:gn_pop":90,
+    "gn:population":90,
+    "iso:country":"AQ",
+    "lbl:latitude":-62.22,
+    "lbl:longitude":-58.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u4e16\u5b97\u79d1\u5b78\u57fa\u5730"
+    ],
+    "name:dut_x_preferred":[
+        "King Sejong Station"
+    ],
+    "name:eng_x_preferred":[
+        "King Sejong Station (South Korea)"
+    ],
+    "name:eng_x_variant":[
+        "King Sejong Station"
+    ],
+    "name:fre_x_preferred":[
+        "base antarctique du roi Sejong"
+    ],
+    "name:ger_x_preferred":[
+        "K\u00f6nig-Sejong-Station"
+    ],
+    "name:ita_x_preferred":[
+        "Base scientifica Sejong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e16\u5b97\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc885\uacfc\ud559\uae30\uc9c0"
+    ],
+    "name:lav_x_preferred":[
+        "Sed\u017eona"
+    ],
+    "name:nno_x_preferred":[
+        "King Sejong-stasjonen"
+    ],
+    "name:nor_x_preferred":[
+        "Kong Sejong-stasjonen (S\u00f8r-Korea)"
+    ],
+    "name:nor_x_variant":[
+        "Kong Sejong-stasjonen"
+    ],
+    "name:pol_x_preferred":[
+        "King Sejong"
+    ],
+    "name:spa_x_preferred":[
+        "Base Rey Sejong"
+    ],
+    "name:swe_x_preferred":[
+        "King Sejong Station"
+    ],
+    "qs_pg:aaroncc":"AQ",
+    "qs_pg:gn_country":"AQ",
+    "qs_pg:gn_fcode":"STNB",
+    "qs_pg:gn_id":6620761,
+    "qs_pg:gn_pop":90,
+    "qs_pg:name":"King Sejong Station",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1053796,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6620761,
+        "qs_pg:id":1053796,
+        "wd:id":"Q246364"
+    },
+    "wof:country":"AQ",
+    "wof:created":1497295953,
+    "wof:geomhash":"816dfb7a8b504e37853c074bce8167a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125904999,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125904999,
+    "wof:lastmodified":1534379078,
+    "wof:name":"King Sejong Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[
+        1141908409
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.78333,
+    -62.22,
+    -58.78333,
+    -62.22
+],
+  "geometry": {"coordinates":[-58.78333,-62.22],"type":"Point"}
+}

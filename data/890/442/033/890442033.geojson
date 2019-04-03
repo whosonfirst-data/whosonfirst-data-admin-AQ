@@ -1,0 +1,239 @@
+{
+  "id": 890442033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.76624,-77.84891,166.76624,-77.84891",
+    "geom:latitude":-77.84891,
+    "geom:longitude":166.76624,
+    "gn:country":"AQ",
+    "gn:fcode":"STNB",
+    "gn:pop":85,
+    "iso:country":"AQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0639\u062f\u0629 \u0633\u0643\u0648\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "Base Scott"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u79d1\u7279\u57fa\u5730"
+    ],
+    "name:dut_x_preferred":[
+        "Basis Scott"
+    ],
+    "name:eng_x_preferred":[
+        "Scott Base (New Zealand)"
+    ],
+    "name:eng_x_variant":[
+        "Scott Base"
+    ],
+    "name:fin_x_preferred":[
+        "Scott Base"
+    ],
+    "name:fre_x_preferred":[
+        "base antarctique Scott"
+    ],
+    "name:fry_x_preferred":[
+        "Basis Scott"
+    ],
+    "name:ger_x_preferred":[
+        "Scott Base"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e1\u05d9\u05e1 \u05e1\u05e7\u05d5\u05d8"
+    ],
+    "name:ita_x_preferred":[
+        "Base Scott"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30b3\u30c3\u30c8\u57fa\u5730"
+    ],
+    "name:lav_x_preferred":[
+        "Skota"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u043a\u043e\u0442\u0442 \u0431\u0430\u0430\u0437"
+    ],
+    "name:nno_x_preferred":[
+        "Scott-basen"
+    ],
+    "name:nob_x_preferred":[
+        "Scott Base"
+    ],
+    "name:nor_x_preferred":[
+        "Scott (NZ)"
+    ],
+    "name:nor_x_variant":[
+        "Scott"
+    ],
+    "name:pol_x_preferred":[
+        "Scott Base"
+    ],
+    "name:por_x_preferred":[
+        "Base Scott"
+    ],
+    "name:rum_x_preferred":[
+        "Scott"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u043e\u0442\u0442-\u0411\u0435\u0439\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Base Scott"
+    ],
+    "name:swe_x_preferred":[
+        "Scott Base"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u043e\u0442\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Scott Base /N.Z./"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Antarctica",
+    "ne:ADM0_A3":"ATA",
+    "ne:ADM1NAME":null,
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":3,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed feature class.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Scientific station",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":null,
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AQ",
+    "ne:LABELRANK":0,
+    "ne:LATITUDE":-77.846938,
+    "ne:LONGITUDE":166.749102,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Scott Base (New Zealand)",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Scott Base",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Scott Base",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":"New Zealand",
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":85,
+    "ne:POP_MIN":14,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":1,
+    "ne:RANK_MIN":1,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Indeterminate",
+    "ne:SOV_A3":"ATA",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Scott Base",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":1174,
+    "wof:belongsto":[
+        85632715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6620787,
+        "qs:id":160941,
+        "wd:id":"Q1136714",
+        "wk:page":"Scott Base"
+    },
+    "wof:country":"AQ",
+    "wof:created":1469052348,
+    "wof:geomhash":"54cdf50adceb1ccb8f974872ae2eeb59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632715,
+            "locality_id":890442033
+        }
+    ],
+    "wof:id":890442033,
+    "wof:lastmodified":1527792858,
+    "wof:name":"Scott Base",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.76624,
+    -77.84891,
+    166.76624,
+    -77.84891
+],
+  "geometry": {"coordinates":[166.76624000000001,-77.84891],"type":"Point"}
+}

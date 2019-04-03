@@ -1,0 +1,130 @@
+{
+  "id": 1125787135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31667,-70.68333,44.31667,-70.68333",
+    "geom:latitude":-70.68333,
+    "geom:longitude":44.31667,
+    "gn:gn_country":"AQ",
+    "gn:gn_fcode":"STNB",
+    "gn:gn_pop":5,
+    "gn:population":5,
+    "iso:country":"AQ",
+    "lbl:latitude":-70.68333,
+    "lbl:longitude":44.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0637\u0629 \u0645\u064a\u0632\u0648\u0647\u0648"
+    ],
+    "name:chi_x_preferred":[
+        "\u745e\u7a57\u57fa\u5730"
+    ],
+    "name:dut_x_preferred":[
+        "Mizuho Station"
+    ],
+    "name:eng_x_preferred":[
+        "Mizuho Station (Japan)"
+    ],
+    "name:eng_x_variant":[
+        "Mizuho Station"
+    ],
+    "name:fin_x_preferred":[
+        "Mizuho"
+    ],
+    "name:ita_x_preferred":[
+        "Stazione Mizuho"
+    ],
+    "name:jpn_x_preferred":[
+        "\u307f\u305a\u307b\u57fa\u5730"
+    ],
+    "name:lav_x_preferred":[
+        "Midzuho"
+    ],
+    "name:nno_x_preferred":[
+        "Mizuho-stasjonen"
+    ],
+    "name:nob_x_preferred":[
+        "Mizuho"
+    ],
+    "name:nor_x_preferred":[
+        "Mizuho-stasjonen (Japan)"
+    ],
+    "name:nor_x_variant":[
+        "Mizuho"
+    ],
+    "name:pol_x_preferred":[
+        "Mizuho"
+    ],
+    "name:por_x_preferred":[
+        "Esta\u00e7\u00e3o Mizuho"
+    ],
+    "name:spa_x_preferred":[
+        "Base Mizuho"
+    ],
+    "name:swe_x_preferred":[
+        "Mizuho"
+    ],
+    "name:unk_x_variant":[
+        "Mizuho /Nip./"
+    ],
+    "qs_pg:aaroncc":"AQ",
+    "qs_pg:gn_country":"AQ",
+    "qs_pg:gn_fcode":"STNB",
+    "qs_pg:gn_id":6620773,
+    "qs_pg:gn_pop":5,
+    "qs_pg:name":"Mizuho Station",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":643282,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191579,
+        85632715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6620773,
+        "qs_pg:id":643282,
+        "wd:id":"Q2350884"
+    },
+    "wof:country":"AQ",
+    "wof:created":1497290727,
+    "wof:geomhash":"1f7f4ecddb71250cc74ff5dbf54629cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191579,
+            "country_id":85632715,
+            "locality_id":1125787135,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125787135,
+    "wof:lastmodified":1513888926,
+    "wof:name":"Mizuho Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31667,
+    -70.68333,
+    44.31667,
+    -70.68333
+],
+  "geometry": {"coordinates":[44.31667,-70.68333],"type":"Point"}
+}

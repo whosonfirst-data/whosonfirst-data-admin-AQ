@@ -1,0 +1,196 @@
+{
+  "id": 1141908459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-34.6166831884,-77.8663207819,-34.6166831884,-77.8663207819",
+    "geom:latitude":-77.866321,
+    "geom:longitude":-34.616683,
+    "iso:country":"AQ",
+    "lbl:latitude":-77.866321,
+    "lbl:longitude":-34.616683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0637\u0629 \u0627\u0644\u062c\u0646\u0631\u0627\u0644 \u0628\u0644\u063a\u0631\u0627\u0646\u0648 2"
+    ],
+    "name:dut_x_preferred":[
+        "General Belgrano II"
+    ],
+    "name:eng_x_preferred":[
+        "Belgrano II Base"
+    ],
+    "name:fin_x_preferred":[
+        "General Belgrano II"
+    ],
+    "name:fre_x_preferred":[
+        "base antarctique Belgrano II"
+    ],
+    "name:ita_x_preferred":[
+        "Base dell'esercito generale Belgrano II"
+    ],
+    "name:jpn_x_preferred":[
+        "\u3078\u30cd\u30e9\u30eb\u30fb\u30d9\u30eb\u30b0\u30e9\u30ceII\u57fa\u5730"
+    ],
+    "name:lav_x_preferred":[
+        "Belgrano II"
+    ],
+    "name:nno_x_preferred":[
+        "Belgrano II-basen"
+    ],
+    "name:nob_x_preferred":[
+        "Belgrano II"
+    ],
+    "name:pol_x_preferred":[
+        "Belgrano II"
+    ],
+    "name:por_x_preferred":[
+        "Base Belgrano II"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u0433\u0440\u0430\u043d\u043e II"
+    ],
+    "name:spa_x_preferred":[
+        "Base Belgrano II"
+    ],
+    "name:swe_x_preferred":[
+        "Belgrano II"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u0491\u0440\u0430\u043d\u043e II"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Antarctica",
+    "ne:ADM0_A3":"ATA",
+    "ne:ADM1NAME":null,
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":3,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed feature class.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Scientific station",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AQ",
+    "ne:LABELRANK":0,
+    "ne:LATITUDE":-77.866321,
+    "ne:LONGITUDE":-34.616683,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"General Belgrano Station (Argentina)",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Belgrano II Base",
+    "ne:NAMEALT":"General Belgrano II Station",
+    "ne:NAMEASCII":"Belgrano II Base",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":"Argentina",
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":100,
+    "ne:POP_MIN":14,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":1,
+    "ne:RANK_MIN":1,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Indeterminate",
+    "ne:SOV_A3":"ATA",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
+    "reversegeo:latitude":-77.866321,
+    "reversegeo:longitude":-34.616683,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191579,
+        85632715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2357907"
+    },
+    "wof:country":"AQ",
+    "wof:created":1499130906,
+    "wof:geomhash":"0c81cb33497aa9a3400027f547ca1ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191579,
+            "country_id":85632715,
+            "locality_id":1141908459
+        }
+    ],
+    "wof:id":1141908459,
+    "wof:lastmodified":1513888921,
+    "wof:name":"Belgrano II Base",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -34.61668318840202,
+    -77.86632078187051,
+    -34.61668318840202,
+    -77.86632078187051
+],
+  "geometry": {"coordinates":[-34.61668318840202,-77.86632078187051],"type":"Point"}
+}

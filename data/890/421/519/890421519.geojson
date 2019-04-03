@@ -1,0 +1,143 @@
+{
+  "id": 890421519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.97833,-62.195,-58.97833,-62.195",
+    "geom:latitude":-62.195,
+    "geom:longitude":-58.97833,
+    "gn:country":"AQ",
+    "gn:fcode":"STNB",
+    "gn:pop":110,
+    "iso:country":"AQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Base Frei"
+    ],
+    "name:chi_x_preferred":[
+        "\u7231\u5fb7\u534e\u591a\u00b7\u5f17\u96f7\u00b7\u8499\u5854\u5c14\u74e6\u603b\u7edf\u57fa\u5730"
+    ],
+    "name:dut_x_preferred":[
+        "Presidente Eduardo Frei Montalva Station"
+    ],
+    "name:eng_x_preferred":[
+        "Eduardo Frei Montalva (Chile)"
+    ],
+    "name:eng_x_variant":[
+        "Eduardo Frei Montalva",
+        "Base Presidente Eduardo Frei Montalva"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0631\u0626\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631 \u0627\u062f\u0648\u0627\u0631\u062f\u0648 \u0641\u0631\u06cc \u0645\u0648\u0646\u062a\u0627\u0644\u0648\u0627"
+    ],
+    "name:fre_x_preferred":[
+        "base Presidente Eduardo Frei Montalva"
+    ],
+    "name:ita_x_preferred":[
+        "Base presidente Eduardo Frei Montalva"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30c9\u30a5\u30a2\u30eb\u30c9\u30fb\u30d5\u30ec\u30a4\u30fb\u30e2\u30f3\u30bf\u30eb\u30d0\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\ub450\uc544\ub974\ub3c4 \ud504\ub808\uc774 \ubaac\ud0c8\ubc14 \uae30\uc9c0"
+    ],
+    "name:lav_x_preferred":[
+        "Eduardofreja"
+    ],
+    "name:nld_x_preferred":[
+        "Presidente Eduardo Frei Montalva Station"
+    ],
+    "name:nno_x_preferred":[
+        "Base Presidente Eduardo Frei Montalva"
+    ],
+    "name:nob_x_preferred":[
+        "Eduardo Frei"
+    ],
+    "name:nor_x_preferred":[
+        "Eduardo Frei Montalva (Chile)"
+    ],
+    "name:nor_x_variant":[
+        "Eduardo Frei Montalva",
+        "Eduardo Frei"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0631\u0626\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631 \u0627\u062f\u0648\u0627\u0631\u062f\u0648 \u0641\u0631\u06cc \u0645\u0648\u0646\u062a\u0627\u0644\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Presidente Eduardo Frei Montalva"
+    ],
+    "name:por_x_preferred":[
+        "Base Presidente Eduardo Frei Montalva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u042d\u0434\u0443\u0430\u0440\u0434\u043e \u0424\u0440\u0435\u0439 \u041c\u043e\u043d\u0442\u0430\u043b\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Base Presidente Eduardo Frei Montalva"
+    ],
+    "name:swe_x_preferred":[
+        "Eduardo Frei"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u0440\u0430\u0435\u0441\u200c\u04b7\u0443\u043c\u04b3\u0443\u0440\u0438 \u0438\u0434\u0432\u043e\u0440\u0434\u0443 \u0444\u0430\u0440 \u043c\u0443\u043d\u0442\u043e\u043b\u0443\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0435\u0439"
+    ],
+    "name:zho_x_preferred":[
+        "\u7231\u5fb7\u534e\u591a\u00b7\u5f17\u96f7\u00b7\u8499\u5854\u5c14\u74e6\u603b\u7edf\u57fa\u5730"
+    ],
+    "qs:name":"Eduardo Frei Montalva",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":3433,
+    "wof:belongsto":[
+        102191579,
+        85632715,
+        85681139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6620750,
+        "qs:id":105152,
+        "wd:id":"Q1928160",
+        "wk:page":"Eduardo Frei Montalva"
+    },
+    "wof:country":"AQ",
+    "wof:created":1469051396,
+    "wof:geomhash":"b938ef5dead77872997d1b084ca3ee11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191579,
+            "country_id":85632715,
+            "locality_id":890421519,
+            "region_id":85681139
+        }
+    ],
+    "wof:id":890421519,
+    "wof:lastmodified":1527782110,
+    "wof:name":"Eduardo Frei Montalva",
+    "wof:parent_id":85681139,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.97833,
+    -62.195,
+    -58.97833,
+    -62.195
+],
+  "geometry": {"coordinates":[-58.97833,-62.195],"type":"Point"}
+}

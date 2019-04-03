@@ -1,0 +1,133 @@
+{
+  "id": 890435327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-44.73333,-60.73333,-44.73333,-60.73333",
+    "geom:latitude":-60.73333,
+    "geom:longitude":-44.73333,
+    "gn:country":"AQ",
+    "gn:fcode":"AIRB",
+    "gn:pop":45,
+    "iso:country":"AQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:chi_x_preferred":[
+        "\u5965\u5c14\u5361\u8fbe\u65af\u7ad9"
+    ],
+    "name:dut_x_preferred":[
+        "Orcadas Base"
+    ],
+    "name:eng_x_preferred":[
+        "Orcadas Base (Argentina)"
+    ],
+    "name:eng_x_variant":[
+        "Orcadas Base"
+    ],
+    "name:epo_x_preferred":[
+        "Stacio Orcadas"
+    ],
+    "name:est_x_preferred":[
+        "Orcadas"
+    ],
+    "name:fre_x_preferred":[
+        "base antarctique Orcadas"
+    ],
+    "name:ger_x_preferred":[
+        "Orcadas-Station"
+    ],
+    "name:hun_x_preferred":[
+        "Orcadas kutat\u00f3\u00e1llom\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Distaccamento navale Orcadas"
+    ],
+    "name:lav_x_preferred":[
+        "Orkadasa"
+    ],
+    "name:nno_x_preferred":[
+        "Orcadas-basen"
+    ],
+    "name:nob_x_preferred":[
+        "Orcadas"
+    ],
+    "name:nor_x_preferred":[
+        "Orcadas-basen (Argentina)"
+    ],
+    "name:nor_x_variant":[
+        "Orcadas-basen"
+    ],
+    "name:pol_x_preferred":[
+        "Orcadas"
+    ],
+    "name:por_x_preferred":[
+        "Base Orcadas"
+    ],
+    "name:rum_x_preferred":[
+        "Baza Orcadas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043a\u0430\u0434\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Base Orcadas"
+    ],
+    "name:swe_x_preferred":[
+        "Orcadas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043a\u0430\u0434\u0430\u0441"
+    ],
+    "qs:name":"Orcadas Base",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":1297,
+    "wof:belongsto":[
+        102191579,
+        85632715,
+        85681139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6620777,
+        "qs:id":160939,
+        "wd:id":"Q1440159",
+        "wk:page":"Orcadas Base"
+    },
+    "wof:country":"AQ",
+    "wof:created":1469052063,
+    "wof:geomhash":"8e3db366800ff23ac726caa0d65b2fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191579,
+            "country_id":85632715,
+            "locality_id":890435327,
+            "region_id":85681139
+        }
+    ],
+    "wof:id":890435327,
+    "wof:lastmodified":1527793053,
+    "wof:name":"Orcadas Base",
+    "wof:parent_id":85681139,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -44.73333,
+    -60.73333,
+    -44.73333,
+    -60.73333
+],
+  "geometry": {"coordinates":[-44.73333,-60.73333],"type":"Point"}
+}

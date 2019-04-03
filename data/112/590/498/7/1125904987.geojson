@@ -1,0 +1,148 @@
+{
+  "id": 1125904987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.0,-63.4,-57.0,-63.4",
+    "geom:latitude":-63.4,
+    "geom:longitude":-57.0,
+    "gn:gn_country":"AQ",
+    "gn:gn_fcode":"STNB",
+    "gn:gn_pop":100,
+    "gn:population":100,
+    "iso:country":"AQ",
+    "lbl:latitude":-63.4,
+    "lbl:longitude":-57.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0537\u057d\u057a\u0565\u0580\u0576\u0561\u057d\u0561 \u056f\u0561\u0575\u0561\u0576"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u65af\u4f69\u862d\u85a9\u57fa\u5730"
+    ],
+    "name:cze_x_preferred":[
+        "Stanice Esperanza"
+    ],
+    "name:dut_x_preferred":[
+        "Esperanza Basis"
+    ],
+    "name:eng_x_preferred":[
+        "Esperanza Base (Argentina)"
+    ],
+    "name:eng_x_variant":[
+        "Esperanza Base"
+    ],
+    "name:fin_x_preferred":[
+        "Esperanza Base"
+    ],
+    "name:fre_x_preferred":[
+        "base antarctique Esperanza"
+    ],
+    "name:ger_x_preferred":[
+        "Esperanza-Station"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03ac\u03c3\u03b7 \u0395\u03c3\u03c0\u03b5\u03c1\u03ac\u03bd\u03b6\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e1\u05d9\u05e1 \u05d0\u05e1\u05e4\u05e8\u05e0\u05e1\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Base Esperanza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30b9\u30da\u30e9\u30f3\u30b5\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\uc2a4\ud398\ub780\uc0ac \uae30\uc9c0"
+    ],
+    "name:lav_x_preferred":[
+        "Esperansa"
+    ],
+    "name:nno_x_preferred":[
+        "Esperanza-basen"
+    ],
+    "name:nob_x_preferred":[
+        "Esperanza"
+    ],
+    "name:nor_x_preferred":[
+        "Esperanza-basen (Argentina)"
+    ],
+    "name:nor_x_variant":[
+        "Esperanza-basen"
+    ],
+    "name:pol_x_preferred":[
+        "Esperanza"
+    ],
+    "name:por_x_preferred":[
+        "Base Esperanza"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Base Esperanza"
+    ],
+    "name:swe_x_preferred":[
+        "Esperanza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
+    ],
+    "qs_pg:aaroncc":"AQ",
+    "qs_pg:gn_country":"AQ",
+    "qs_pg:gn_fcode":"STNB",
+    "qs_pg:gn_id":6620751,
+    "qs_pg:gn_pop":100,
+    "qs_pg:name":"Esperanza Base",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1053795,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6620751,
+        "qs_pg:id":1053795,
+        "wd:id":"Q1368174"
+    },
+    "wof:country":"AQ",
+    "wof:created":1497295953,
+    "wof:geomhash":"e20d0d7b94a920a0e2812cb80fbc589b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125904987,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125904987,
+    "wof:lastmodified":1553816615,
+    "wof:name":"Esperanza Base",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.0,
+    -63.4,
+    -57.0,
+    -63.4
+],
+  "geometry": {"coordinates":[-57.0,-63.4],"type":"Point"}
+}

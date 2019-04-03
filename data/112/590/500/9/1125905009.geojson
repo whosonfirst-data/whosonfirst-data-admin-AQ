@@ -1,0 +1,132 @@
+{
+  "id": 1125905009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.72719,-70.76595,11.72719,-70.76595",
+    "geom:latitude":-70.76595,
+    "geom:longitude":11.72719,
+    "gn:gn_country":"AQ",
+    "gn:gn_fcode":"STNB",
+    "gn:gn_pop":25,
+    "gn:population":25,
+    "iso:country":"AQ",
+    "lbl:latitude":-70.76595,
+    "lbl:longitude":11.72719,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u9081\u7279\u91cc\u7ad9"
+    ],
+    "name:cze_x_preferred":[
+        "Maitri"
+    ],
+    "name:eng_x_preferred":[
+        "Maitri Station (India)"
+    ],
+    "name:eng_x_variant":[
+        "Maitri Station",
+        "Maitri"
+    ],
+    "name:fre_x_preferred":[
+        "base antarctique Maitri"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0948\u0924\u094d\u0930\u0940 \u0905\u0928\u0941\u0938\u0902\u0927\u093e\u0928 \u0915\u0947\u0928\u094d\u0926\u094d\u0930"
+    ],
+    "name:lav_x_preferred":[
+        "Maitri"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d48\u0d24\u0d4d\u0d30\u0d3f \u0d17\u0d35\u0d47\u0d37\u0d23\u0d15\u0d47\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d02"
+    ],
+    "name:nno_x_preferred":[
+        "Maitri"
+    ],
+    "name:nob_x_preferred":[
+        "Maitri"
+    ],
+    "name:nor_x_preferred":[
+        "Maitri-stasjonen (India)"
+    ],
+    "name:nor_x_variant":[
+        "Maitri"
+    ],
+    "name:pol_x_preferred":[
+        "Maitri"
+    ],
+    "name:por_x_preferred":[
+        "Esta\u00e7\u00e3o Maitri"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u0442\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Base Maitri"
+    ],
+    "name:swe_x_preferred":[
+        "Maitri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0439\u0442\u0440\u0456"
+    ],
+    "qs_pg:aaroncc":"AQ",
+    "qs_pg:gn_country":"AQ",
+    "qs_pg:gn_fcode":"STNB",
+    "qs_pg:gn_id":6620766,
+    "qs_pg:gn_pop":25,
+    "qs_pg:name":"Maitri Station",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1053797,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6620766,
+        "qs_pg:id":1053797,
+        "wd:id":"Q626852"
+    },
+    "wof:country":"AQ",
+    "wof:created":1497295954,
+    "wof:geomhash":"0a26163f19bec8cf8b2065ea83cc89d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125905009,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125905009,
+    "wof:lastmodified":1534379078,
+    "wof:name":"Maitri Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[
+        1141908455
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.72719,
+    -70.76595,
+    11.72719,
+    -70.76595
+],
+  "geometry": {"coordinates":[11.72719,-70.76595],"type":"Point"}
+}

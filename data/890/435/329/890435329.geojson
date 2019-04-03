@@ -1,0 +1,223 @@
+{
+  "id": 890435329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.05,-64.77,-64.05,-64.77",
+    "geom:latitude":-64.77,
+    "geom:longitude":-64.05,
+    "gn:country":"AQ",
+    "gn:fcode":"STNB",
+    "gn:pop":46,
+    "iso:country":"AQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":4.0,
+    "name:chi_x_preferred":[
+        "\u5e15\u5c14\u9ed8\u7ad9"
+    ],
+    "name:deu_x_preferred":[
+        "Palmer-Station"
+    ],
+    "name:eng_x_preferred":[
+        "Palmer Station (United States)"
+    ],
+    "name:eng_x_variant":[
+        "Palmer Station"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u067e\u0627\u0644\u0645\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Base antarctique Palmer"
+    ],
+    "name:fre_x_preferred":[
+        "base antarctique Palmer"
+    ],
+    "name:ger_x_preferred":[
+        "Palmer-Station"
+    ],
+    "name:lav_x_preferred":[
+        "P\u0101lmera"
+    ],
+    "name:nno_x_preferred":[
+        "Palmer-stasjonen"
+    ],
+    "name:nob_x_preferred":[
+        "Palmer Station"
+    ],
+    "name:nor_x_preferred":[
+        "Palmer-stasjonen (USA)"
+    ],
+    "name:nor_x_variant":[
+        "Palmer-stasjonen"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u067e\u0627\u0644\u0645\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Palmer"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Base Palmer"
+    ],
+    "name:swe_x_preferred":[
+        "Palmer Station"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0435\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Palmer /USA/"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5c14\u9ed8\u7ad9"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Antarctica",
+    "ne:ADM0_A3":"ATA",
+    "ne:ADM1NAME":null,
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":3,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed feature class.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Scientific station",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AQ",
+    "ne:LABELRANK":0,
+    "ne:LATITUDE":-64.762413,
+    "ne:LONGITUDE":-64.046876,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Palmer Station (USA)",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Palmer Station",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Palmer Station",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":"USA",
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":46,
+    "ne:POP_MIN":15,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":1,
+    "ne:RANK_MIN":1,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Indeterminate",
+    "ne:SOV_A3":"ATA",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Palmer Station",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":1100,
+    "wof:belongsto":[
+        85632715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6620778,
+        "qs:id":160940,
+        "wd:id":"Q1333903",
+        "wk:page":"Palmer Station"
+    },
+    "wof:country":"AQ",
+    "wof:created":1469052063,
+    "wof:geomhash":"cc01e6c34f41af9dcb4c0fd0f35437d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632715,
+            "locality_id":890435329
+        }
+    ],
+    "wof:id":890435329,
+    "wof:lastmodified":1534379079,
+    "wof:name":"Palmer Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141908403
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.05,
+    -64.77,
+    -64.05,
+    -64.77
+],
+  "geometry": {"coordinates":[-64.05,-64.77],"type":"Point"}
+}

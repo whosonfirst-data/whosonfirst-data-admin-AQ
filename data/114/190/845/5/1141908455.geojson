@@ -1,0 +1,225 @@
+{
+  "id": 1141908455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.7304584017,-70.7821796023,11.7304584017,-70.7821796023",
+    "geom:latitude":-70.78218,
+    "geom:longitude":11.730458,
+    "gn:gn_country":"AQ",
+    "gn:gn_fcode":"STNB",
+    "gn:gn_pop":25,
+    "gn:population":25,
+    "iso:country":"AQ",
+    "lbl:latitude":-70.78218,
+    "lbl:longitude":11.730458,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:chi_x_preferred":[
+        "\u9081\u7279\u91cc\u7ad9"
+    ],
+    "name:cze_x_preferred":[
+        "Maitri"
+    ],
+    "name:eng_x_preferred":[
+        "Maitri Station (India)"
+    ],
+    "name:eng_x_variant":[
+        "Maitri Station",
+        "Maitri"
+    ],
+    "name:fre_x_preferred":[
+        "base antarctique Maitri"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0948\u0924\u094d\u0930\u0940 \u0905\u0928\u0941\u0938\u0902\u0927\u093e\u0928 \u0915\u0947\u0928\u094d\u0926\u094d\u0930"
+    ],
+    "name:lav_x_preferred":[
+        "Maitri"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d48\u0d24\u0d4d\u0d30\u0d3f \u0d17\u0d35\u0d47\u0d37\u0d23\u0d15\u0d47\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d02"
+    ],
+    "name:nno_x_preferred":[
+        "Maitri"
+    ],
+    "name:nob_x_preferred":[
+        "Maitri"
+    ],
+    "name:nor_x_preferred":[
+        "Maitri-stasjonen (India)"
+    ],
+    "name:nor_x_variant":[
+        "Maitri"
+    ],
+    "name:pol_x_preferred":[
+        "Maitri"
+    ],
+    "name:por_x_preferred":[
+        "Esta\u00e7\u00e3o Maitri"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u0442\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Base Maitri"
+    ],
+    "name:swe_x_preferred":[
+        "Maitri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0439\u0442\u0440\u0456"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Antarctica",
+    "ne:ADM0_A3":"ATA",
+    "ne:ADM1NAME":null,
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":3,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Location adjusted. Changed feature class.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Scientific station",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AQ",
+    "ne:LABELRANK":0,
+    "ne:LATITUDE":-70.78218,
+    "ne:LONGITUDE":11.730458,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Maitri Station (India)",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Maitri Station",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Maitri Station",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":"India",
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":65,
+    "ne:POP_MIN":1,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":1,
+    "ne:RANK_MIN":1,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Indeterminate",
+    "ne:SOV_A3":"ATA",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
+    "qs_pg:aaroncc":"AQ",
+    "qs_pg:gn_country":"AQ",
+    "qs_pg:gn_fcode":"STNB",
+    "qs_pg:gn_id":6620766,
+    "qs_pg:gn_pop":25,
+    "qs_pg:name":"Maitri Station",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1053797,
+    "qs_pg:qs_pg_placetype":"locality",
+    "reversegeo:latitude":-70.78218,
+    "reversegeo:longitude":11.730458,
+    "src:geom":"naturalearth",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191579,
+        85632715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6620766,
+        "qs_pg:id":1053797,
+        "wd:id":"Q626852"
+    },
+    "wof:country":"AQ",
+    "wof:created":1499130905,
+    "wof:geomhash":"1a5be80d95a6d9d57545ec308111194f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191579,
+            "country_id":85632715,
+            "locality_id":1141908455
+        }
+    ],
+    "wof:id":1141908455,
+    "wof:lastmodified":1534379078,
+    "wof:name":"Maitri Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125905009
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.73045840167407,
+    -70.78217960227073,
+    11.73045840167407,
+    -70.78217960227073
+],
+  "geometry": {"coordinates":[11.73045840167407,-70.78217960227073],"type":"Point"}
+}

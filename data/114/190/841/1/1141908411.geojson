@@ -1,0 +1,205 @@
+{
+  "id": 1141908411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.966695599,-62.216319968,-58.966695599,-62.216319968",
+    "geom:latitude":-62.21632,
+    "geom:longitude":-58.966696,
+    "iso:country":"AQ",
+    "lbl:latitude":-62.21632,
+    "lbl:longitude":-58.966696,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0637\u0629 \u0627\u0644\u0633\u0648\u0631 \u0627\u0644\u0639\u0638\u064a\u0645"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e2d\u56fd\u5357\u6781\u957f\u57ce\u7ad9"
+    ],
+    "name:dut_x_preferred":[
+        "Antarctic Great Wall Station"
+    ],
+    "name:eng_x_preferred":[
+        "Great Wall Station"
+    ],
+    "name:fre_x_preferred":[
+        "base antarctique Grande Muraille"
+    ],
+    "name:ger_x_preferred":[
+        "Gro\u00dfe-Mauer-Station"
+    ],
+    "name:ita_x_preferred":[
+        "Stazione grande muraglia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9577\u57ce\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\uc7a5\uc131 \uae30\uc9c0"
+    ],
+    "name:lav_x_preferred":[
+        "\u010can\u010dena"
+    ],
+    "name:nno_x_preferred":[
+        "Great Wall-stasjonen"
+    ],
+    "name:nob_x_preferred":[
+        "Great Wall"
+    ],
+    "name:pol_x_preferred":[
+        "Wielki Mur"
+    ],
+    "name:por_x_preferred":[
+        "Esta\u00e7\u00e3o Ant\u00e1rtica da Grande Muralha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043d\u0447\u044d\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Base Gran Muralla"
+    ],
+    "name:swe_x_preferred":[
+        "Great Wall"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0baa\u0bc6\u0bb0\u0bc1\u0b9e\u0bcd\u0b9a\u0bc1\u0bb5\u0bb0\u0bcd \u0b86\u0baf\u0bcd\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bae\u0bcd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0441\u0442\u0456\u043d\u0430"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Antarctica",
+    "ne:ADM0_A3":"ATA",
+    "ne:ADM1NAME":null,
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":3,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed feature class.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Scientific station",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"AQ",
+    "ne:LABELRANK":0,
+    "ne:LATITUDE":-62.21632,
+    "ne:LONGITUDE":-58.966696,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Great Wall Station (China)",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Great Wall Station",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Great Wall Station",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":"China",
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":40,
+    "ne:POP_MIN":12,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":1,
+    "ne:RANK_MIN":1,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Indeterminate",
+    "ne:SOV_A3":"ATA",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":5.0,
+    "reversegeo:latitude":-62.21632,
+    "reversegeo:longitude":-58.966696,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191579,
+        85632715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1548160"
+    },
+    "wof:country":"AQ",
+    "wof:created":1499130894,
+    "wof:geomhash":"c5dd61fb89274acb67f20121abf46868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191579,
+            "country_id":85632715,
+            "locality_id":1141908411
+        }
+    ],
+    "wof:id":1141908411,
+    "wof:lastmodified":1553816737,
+    "wof:name":"Great Wall Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-aq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.96669559898118,
+    -62.21631996800585,
+    -58.96669559898118,
+    -62.21631996800585
+],
+  "geometry": {"coordinates":[-58.96669559898118,-62.21631996800585],"type":"Point"}
+}
