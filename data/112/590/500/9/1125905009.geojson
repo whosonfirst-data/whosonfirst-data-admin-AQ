@@ -21,10 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u9081\u7279\u91cc\u7ad9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Maitri"
     ],
     "name:eng_x_preferred":[
@@ -34,7 +31,7 @@
         "Maitri Station",
         "Maitri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "base antarctique Maitri"
     ],
     "name:hin_x_preferred":[
@@ -76,6 +73,9 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u0442\u0440\u0456"
     ],
+    "name:zho_x_preferred":[
+        "\u9081\u7279\u91cc\u7ad9"
+    ],
     "qs_pg:aaroncc":"AQ",
     "qs_pg:gn_country":"AQ",
     "qs_pg:gn_fcode":"STNB",
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125905009,
-    "wof:lastmodified":1534379078,
+    "wof:lastmodified":1561792317,
     "wof:name":"Maitri Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

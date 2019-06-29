@@ -24,26 +24,17 @@
     "name:aze_x_preferred":[
         "Mak-Merdo"
     ],
-    "name:baq_x_preferred":[
-        "McMurdo basea"
-    ],
     "name:cat_x_preferred":[
         "Estaci\u00f3 McMurdo"
     ],
     "name:ces_x_preferred":[
         "Pol\u00e1rn\u00ed stanice McMurdo"
     ],
-    "name:chi_x_preferred":[
-        "\u9ea5\u514b\u9ed8\u591a\u7ad9"
-    ],
-    "name:cze_x_preferred":[
-        "Pol\u00e1rn\u00ed stanice McMurdo"
-    ],
     "name:deu_x_preferred":[
         "McMurdo-Station"
     ],
-    "name:dut_x_preferred":[
-        "Station McMurdo"
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03c3\u03b7 \u039c\u03b1\u03ba\u039c\u03bf\u03cd\u03c1\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "McMurdo Station (United States)"
@@ -63,14 +54,8 @@
     "name:fra_x_preferred":[
         "Base antarctique McMurdo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "base antarctique McMurdo"
-    ],
-    "name:ger_x_preferred":[
-        "McMurdo-Station"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03ac\u03c3\u03b7 \u039c\u03b1\u03ba\u039c\u03bf\u03cd\u03c1\u03bd\u03c4\u03bf"
     ],
     "name:heb_x_preferred":[
         "\u05ea\u05d7\u05e0\u05ea \u05de\u05e7-\u05de\u05e8\u05d3\u05d5"
@@ -96,7 +81,7 @@
     "name:lit_x_preferred":[
         "Makmerdo stotis"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u0435\u043a\u043c\u0435\u0440\u0434\u043e"
     ],
     "name:mon_x_preferred":[
@@ -129,13 +114,10 @@
     "name:ron_x_preferred":[
         "McMurdo"
     ],
-    "name:rum_x_preferred":[
-        "McMurdo"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a-\u041c\u0451\u0440\u0434\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "McMurdo Station"
     ],
     "name:spa_x_preferred":[
@@ -278,7 +260,7 @@
         }
     ],
     "wof:id":890418557,
-    "wof:lastmodified":1534379079,
+    "wof:lastmodified":1561792316,
     "wof:name":"McMurdo Station",
     "wof:parent_id":85681139,
     "wof:placetype":"locality",

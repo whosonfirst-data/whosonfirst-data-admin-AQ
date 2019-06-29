@@ -16,17 +16,17 @@
     "lbl:longitude":-64.046876,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:chi_x_preferred":[
-        "\u5e15\u5c14\u9ed8\u7ad9"
+    "name:deu_x_preferred":[
+        "Palmer-Station"
     ],
     "name:eng_x_preferred":[
         "Palmer Station"
     ],
-    "name:fre_x_preferred":[
-        "base antarctique Palmer"
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u067e\u0627\u0644\u0645\u0631"
     ],
-    "name:ger_x_preferred":[
-        "Palmer-Station"
+    "name:fra_x_preferred":[
+        "base antarctique Palmer"
     ],
     "name:lav_x_preferred":[
         "P\u0101lmera"
@@ -36,9 +36,6 @@
     ],
     "name:nob_x_preferred":[
         "Palmer Station"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u067e\u0627\u0644\u0645\u0631"
     ],
     "name:pol_x_preferred":[
         "Palmer"
@@ -54,6 +51,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043b\u043c\u0435\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5c14\u9ed8\u7ad9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
@@ -170,7 +170,7 @@
         }
     ],
     "wof:id":1141908403,
-    "wof:lastmodified":1534379079,
+    "wof:lastmodified":1561792318,
     "wof:name":"Palmer Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

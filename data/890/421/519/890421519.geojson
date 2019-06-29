@@ -18,12 +18,6 @@
     "name:cat_x_preferred":[
         "Base Frei"
     ],
-    "name:chi_x_preferred":[
-        "\u7231\u5fb7\u534e\u591a\u00b7\u5f17\u96f7\u00b7\u8499\u5854\u5c14\u74e6\u603b\u7edf\u57fa\u5730"
-    ],
-    "name:dut_x_preferred":[
-        "Presidente Eduardo Frei Montalva Station"
-    ],
     "name:eng_x_preferred":[
         "Eduardo Frei Montalva (Chile)"
     ],
@@ -34,7 +28,7 @@
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0631\u0626\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631 \u0627\u062f\u0648\u0627\u0631\u062f\u0648 \u0641\u0631\u06cc \u0645\u0648\u0646\u062a\u0627\u0644\u0648\u0627"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "base Presidente Eduardo Frei Montalva"
     ],
     "name:ita_x_preferred":[
@@ -64,9 +58,6 @@
     "name:nor_x_variant":[
         "Eduardo Frei Montalva",
         "Eduardo Frei"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0631\u0626\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631 \u0627\u062f\u0648\u0627\u0631\u062f\u0648 \u0641\u0631\u06cc \u0645\u0648\u0646\u062a\u0627\u0644\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Presidente Eduardo Frei Montalva"
@@ -122,7 +113,7 @@
         }
     ],
     "wof:id":890421519,
-    "wof:lastmodified":1527782110,
+    "wof:lastmodified":1561792316,
     "wof:name":"Eduardo Frei Montalva",
     "wof:parent_id":85681139,
     "wof:placetype":"locality",

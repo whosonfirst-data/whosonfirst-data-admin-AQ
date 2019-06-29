@@ -17,20 +17,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0637\u0629 \u0627\u0644\u0633\u0648\u0631 \u0627\u0644\u0639\u0638\u064a\u0645"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u56fd\u5357\u6781\u957f\u57ce\u7ad9"
-    ],
-    "name:dut_x_preferred":[
-        "Antarctic Great Wall Station"
+    "name:deu_x_preferred":[
+        "Gro\u00dfe-Mauer-Station"
     ],
     "name:eng_x_preferred":[
         "Great Wall Station"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "base antarctique Grande Muraille"
-    ],
-    "name:ger_x_preferred":[
-        "Gro\u00dfe-Mauer-Station"
     ],
     "name:ita_x_preferred":[
         "Stazione grande muraglia"
@@ -43,6 +37,9 @@
     ],
     "name:lav_x_preferred":[
         "\u010can\u010dena"
+    ],
+    "name:nld_x_preferred":[
+        "Antarctic Great Wall Station"
     ],
     "name:nno_x_preferred":[
         "Great Wall-stasjonen"
@@ -70,6 +67,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u0441\u0442\u0456\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u56fd\u5357\u6781\u957f\u57ce\u7ad9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
@@ -186,7 +186,7 @@
         }
     ],
     "wof:id":1141908411,
-    "wof:lastmodified":1553816737,
+    "wof:lastmodified":1561792318,
     "wof:name":"Great Wall Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,12 +22,6 @@
     "name:cat_x_preferred":[
         "Refugi Tor"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u723e\u7ad9"
-    ],
-    "name:dut_x_preferred":[
-        "Tor"
-    ],
     "name:eng_x_preferred":[
         "Tor research station (Norway)"
     ],
@@ -38,7 +32,7 @@
     "name:fin_x_preferred":[
         "Tor"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "base antarctique Tor"
     ],
     "name:hun_x_preferred":[
@@ -49,6 +43,9 @@
     ],
     "name:lav_x_preferred":[
         "Tora"
+    ],
+    "name:nld_x_preferred":[
+        "Tor"
     ],
     "name:nno_x_preferred":[
         "Tor-stasjonen"
@@ -76,6 +73,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u723e\u7ad9"
     ],
     "qs_pg:aaroncc":"AQ",
     "qs_pg:gn_country":"AQ",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125904193,
-    "wof:lastmodified":1513888928,
+    "wof:lastmodified":1561792317,
     "wof:name":"Tor research station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

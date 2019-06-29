@@ -19,17 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u8428\u7eb3\u7ad9"
+    "name:deu_x_preferred":[
+        "SANAE-IV-Station"
     ],
     "name:eng_x_preferred":[
         "SANAE IV (South Africa)"
     ],
     "name:eng_x_variant":[
         "SANAE IV"
-    ],
-    "name:ger_x_preferred":[
-        "SANAE-IV-Station"
     ],
     "name:lav_x_preferred":[
         "SANAE IV"
@@ -51,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "SANAE"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u7eb3\u7ad9"
     ],
     "qs_pg:aaroncc":"AQ",
     "qs_pg:gn_country":"AQ",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125787159,
-    "wof:lastmodified":1513888927,
+    "wof:lastmodified":1561792317,
     "wof:name":"SANAE IV",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

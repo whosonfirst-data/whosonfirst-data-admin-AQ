@@ -22,13 +22,10 @@
     "name:cat_x_preferred":[
         "Base Troll"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u7f85\u723e\u7ad9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Troll"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Troll"
     ],
     "name:eng_x_preferred":[
@@ -41,11 +38,8 @@
     "name:fin_x_preferred":[
         "Troll"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "base antarctique Troll"
-    ],
-    "name:ger_x_preferred":[
-        "Troll"
     ],
     "name:hun_x_preferred":[
         "Troll kutat\u00f3\u00e1llom\u00e1s"
@@ -55,6 +49,9 @@
     ],
     "name:lav_x_preferred":[
         "Trolla"
+    ],
+    "name:nld_x_preferred":[
+        "Troll"
     ],
     "name:nno_x_preferred":[
         "Troll-stasjonen"
@@ -77,6 +74,9 @@
     ],
     "name:swe_x_preferred":[
         "Troll"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u7f85\u723e\u7ad9"
     ],
     "qs_pg:aaroncc":"AQ",
     "qs_pg:gn_country":"AQ",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1125978221,
-    "wof:lastmodified":1513888928,
+    "wof:lastmodified":1561792317,
     "wof:name":"Troll research station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
