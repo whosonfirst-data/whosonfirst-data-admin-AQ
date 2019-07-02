@@ -21,17 +21,11 @@
     "name:ast_x_preferred":[
         "Base Concordia"
     ],
-    "name:baq_x_preferred":[
-        "Concordia basea"
-    ],
-    "name:chi_x_preferred":[
-        "\u5eb7\u5b8f\u7ad9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Concordia"
     ],
-    "name:dut_x_preferred":[
-        "Concordia Station"
+    "name:deu_x_preferred":[
+        "Station Dome Concordia"
     ],
     "name:eng_x_preferred":[
         "Concordia Station (France and Italy)"
@@ -39,14 +33,14 @@
     "name:eng_x_variant":[
         "Concordia Station"
     ],
+    "name:eus_x_preferred":[
+        "Concordia basea"
+    ],
     "name:fin_x_preferred":[
         "Concordia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "base antarctique Concordia"
-    ],
-    "name:ger_x_preferred":[
-        "Station Dome Concordia"
     ],
     "name:ita_x_preferred":[
         "Concordia"
@@ -56,6 +50,9 @@
     ],
     "name:lav_x_preferred":[
         "Konkordija"
+    ],
+    "name:nld_x_preferred":[
+        "Concordia Station"
     ],
     "name:nno_x_preferred":[
         "Concordia-stasjonen"
@@ -87,6 +84,9 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u043a\u043e\u0440\u0434\u0456\u044f"
     ],
+    "name:zho_x_preferred":[
+        "\u5eb7\u5b8f\u7ad9"
+    ],
     "qs:name":"Concordia Station",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":890435337,
-    "wof:lastmodified":1527793044,
+    "wof:lastmodified":1561792317,
     "wof:name":"Concordia Station",
     "wof:parent_id":85681139,
     "wof:placetype":"locality",

@@ -17,16 +17,13 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0637\u0629 \u0627\u0644\u062c\u0646\u0631\u0627\u0644 \u0628\u0644\u063a\u0631\u0627\u0646\u0648 2"
     ],
-    "name:dut_x_preferred":[
-        "General Belgrano II"
-    ],
     "name:eng_x_preferred":[
         "Belgrano II Base"
     ],
     "name:fin_x_preferred":[
         "General Belgrano II"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "base antarctique Belgrano II"
     ],
     "name:ita_x_preferred":[
@@ -37,6 +34,9 @@
     ],
     "name:lav_x_preferred":[
         "Belgrano II"
+    ],
+    "name:nld_x_preferred":[
+        "General Belgrano II"
     ],
     "name:nno_x_preferred":[
         "Belgrano II-basen"
@@ -177,7 +177,7 @@
         }
     ],
     "wof:id":1141908459,
-    "wof:lastmodified":1513888921,
+    "wof:lastmodified":1561792318,
     "wof:name":"Belgrano II Base",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

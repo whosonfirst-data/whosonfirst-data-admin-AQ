@@ -20,11 +20,8 @@
     "name:cat_x_preferred":[
         "Base Scott"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u79d1\u7279\u57fa\u5730"
-    ],
-    "name:dut_x_preferred":[
-        "Basis Scott"
+    "name:deu_x_preferred":[
+        "Scott Base"
     ],
     "name:eng_x_preferred":[
         "Scott Base"
@@ -32,14 +29,11 @@
     "name:fin_x_preferred":[
         "Scott Base"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "base antarctique Scott"
     ],
     "name:fry_x_preferred":[
         "Basis Scott"
-    ],
-    "name:ger_x_preferred":[
-        "Scott Base"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e1\u05d9\u05e1 \u05e1\u05e7\u05d5\u05d8"
@@ -56,6 +50,9 @@
     "name:mon_x_preferred":[
         "\u0421\u043a\u043e\u0442\u0442 \u0431\u0430\u0430\u0437"
     ],
+    "name:nld_x_preferred":[
+        "Basis Scott"
+    ],
     "name:nno_x_preferred":[
         "Scott-basen"
     ],
@@ -68,7 +65,7 @@
     "name:por_x_preferred":[
         "Base Scott"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Scott"
     ],
     "name:rus_x_preferred":[
@@ -82,6 +79,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043a\u043e\u0442\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u79d1\u7279\u57fa\u5730"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":1141908419,
-    "wof:lastmodified":1513888927,
+    "wof:lastmodified":1561792318,
     "wof:name":"Scott Base",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

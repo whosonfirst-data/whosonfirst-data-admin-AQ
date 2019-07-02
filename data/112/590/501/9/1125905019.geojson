@@ -19,17 +19,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u057c\u0576\u056b"
-    ],
-    "name:chi_x_preferred":[
-        "\u7c73\u723e\u5c3c\u7ad9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mirnyj"
     ],
-    "name:dut_x_preferred":[
-        "Mirniy"
+    "name:deu_x_preferred":[
+        "Mirny-Station"
     ],
     "name:eng_x_preferred":[
         "Mirny Station (Russia)"
@@ -40,17 +34,14 @@
     "name:fin_x_preferred":[
         "Mirnyi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "base antarctique Mirny"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10e0\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d3\u10d2\u10e3\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Mirny-Station"
     ],
     "name:hun_x_preferred":[
         "Mirnij kutat\u00f3\u00e1llom\u00e1s"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u057c\u0576\u056b"
     ],
     "name:ita_x_preferred":[
         "Mirnyj"
@@ -58,8 +49,14 @@
     "name:jpn_x_preferred":[
         "\u30df\u30fc\u30eb\u30cc\u30a4\u57fa\u5730"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e0\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d3\u10d2\u10e3\u10e0\u10d8"
+    ],
     "name:lav_x_preferred":[
         "Mirnija"
+    ],
+    "name:nld_x_preferred":[
+        "Mirniy"
     ],
     "name:nno_x_preferred":[
         "Mirny-stasjonen"
@@ -82,7 +79,7 @@
     "name:por_x_preferred":[
         "Esta\u00e7\u00e3o Mirny"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sta\u021bia Mirny"
     ],
     "name:rus_x_preferred":[
@@ -99,6 +96,9 @@
     ],
     "name:unk_x_variant":[
         "Mirny"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u723e\u5c3c\u7ad9"
     ],
     "qs_pg:aaroncc":"AQ",
     "qs_pg:gn_country":"AQ",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1125905019,
-    "wof:lastmodified":1534379078,
+    "wof:lastmodified":1561792317,
     "wof:name":"Mirny Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
