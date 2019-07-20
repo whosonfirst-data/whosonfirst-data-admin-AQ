@@ -14,6 +14,12 @@
     "lbl:longitude":62.875001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Base Mawson"
+    ],
+    "name:ceb_x_preferred":[
+        "Mawson"
+    ],
     "name:deu_x_preferred":[
         "Mawson-Station"
     ],
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":1141908431,
-    "wof:lastmodified":1561792318,
+    "wof:lastmodified":1563583281,
     "wof:name":"Mawson Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

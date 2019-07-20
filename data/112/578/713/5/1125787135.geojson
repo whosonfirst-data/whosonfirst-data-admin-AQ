@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0637\u0629 \u0645\u064a\u0632\u0648\u0647\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Mizuho Station"
+    ],
     "name:eng_x_preferred":[
         "Mizuho Station (Japan)"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125787135,
-    "wof:lastmodified":1561792317,
+    "wof:lastmodified":1563583275,
     "wof:name":"Mizuho Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

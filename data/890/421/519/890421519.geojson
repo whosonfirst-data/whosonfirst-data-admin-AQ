@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Base Frei"
     ],
+    "name:ceb_x_preferred":[
+        "Base Presidente Eduardo Frei Montalva"
+    ],
     "name:eng_x_preferred":[
         "Eduardo Frei Montalva (Chile)"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890421519,
-    "wof:lastmodified":1561792316,
+    "wof:lastmodified":1563583270,
     "wof:name":"Eduardo Frei Montalva",
     "wof:parent_id":85681139,
     "wof:placetype":"locality",

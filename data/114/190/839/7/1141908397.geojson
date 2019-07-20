@@ -17,6 +17,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0637\u0629 \u0632\u0648\u0634\u064a\u0644\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Base Mario Zucchelli"
+    ],
+    "name:ceb_x_preferred":[
+        "Mario Zucchelli Station"
+    ],
     "name:deu_x_preferred":[
         "Mario-Zucchelli-Station"
     ],
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":1141908397,
-    "wof:lastmodified":1561792318,
+    "wof:lastmodified":1563583288,
     "wof:name":"Zucchelli Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

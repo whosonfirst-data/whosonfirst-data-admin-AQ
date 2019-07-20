@@ -25,6 +25,9 @@
     "name:ast_x_preferred":[
         "Base Vostok"
     ],
+    "name:aze_x_preferred":[
+        "Vostok"
+    ],
     "name:bos_x_preferred":[
         "Stanica Vostok"
     ],
@@ -34,8 +37,14 @@
     "name:cat_x_preferred":[
         "Estaci\u00f3 Vostok"
     ],
+    "name:ceb_x_preferred":[
+        "Vostok Station"
+    ],
     "name:ces_x_preferred":[
         "Vostok"
+    ],
+    "name:chv_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u043e\u043a"
     ],
     "name:deu_x_preferred":[
         "Wostok-Station"
@@ -151,6 +160,9 @@
     "name:zho_x_preferred":[
         "\u6c83\u65af\u6258\u514b\u7ad9"
     ],
+    "name:zho_x_variant":[
+        "\u4e1c\u65b9\u7ad9"
+    ],
     "qs_pg:aaroncc":"AQ",
     "qs_pg:gn_country":"AQ",
     "qs_pg:gn_fcode":"STNB",
@@ -187,7 +199,7 @@
         }
     ],
     "wof:id":1125771403,
-    "wof:lastmodified":1561792317,
+    "wof:lastmodified":1563583277,
     "wof:name":"Vostok Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

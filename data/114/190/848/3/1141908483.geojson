@@ -20,6 +20,12 @@
     "name:aze_x_preferred":[
         "\u015eova"
     ],
+    "name:ceb_x_preferred":[
+        "Showa Station"
+    ],
+    "name:ces_x_preferred":[
+        "Showa"
+    ],
     "name:deu_x_preferred":[
         "Sh\u014dwa-Station"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "Base antarctique Sh\u014dwa"
+    ],
+    "name:fra_x_variant":[
+        "base antarctique Sh\u014dwa"
     ],
     "name:ita_x_preferred":[
         "Stazione Sh\u014dwa"
@@ -189,7 +198,7 @@
         }
     ],
     "wof:id":1141908483,
-    "wof:lastmodified":1561792318,
+    "wof:lastmodified":1563583286,
     "wof:name":"Showa Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

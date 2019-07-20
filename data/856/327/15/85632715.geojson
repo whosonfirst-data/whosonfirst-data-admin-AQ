@@ -125,6 +125,9 @@
     "name:cat_x_preferred":[
         "Ant\u00e0rtida"
     ],
+    "name:cat_x_variant":[
+        "Regi\u00f3 Ant\u00e0rtica"
+    ],
     "name:cdo_x_preferred":[
         "N\u00e0ng-g\u012dk-ci\u016d"
     ],
@@ -325,6 +328,9 @@
     "name:ind_x_preferred":[
         "Antarktika"
     ],
+    "name:ind_x_variant":[
+        "Traktat Antartika"
+    ],
     "name:isl_x_preferred":[
         "Su\u00f0urskautslandi\u00f0"
     ],
@@ -383,6 +389,9 @@
     "name:kor_x_preferred":[
         "\ub0a8\uadf9 \ub300\ub959",
         "\ub0a8\uadf9"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\uadf9\uc870\uc57d\uc9c0\uc5ed"
     ],
     "name:krc_x_preferred":[
         "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430"
@@ -500,6 +509,9 @@
     ],
     "name:nob_x_preferred":[
         "Antarktis"
+    ],
+    "name:nob_x_variant":[
+        "Antarktistraktatsomr\u00e5det"
     ],
     "name:nor_x_preferred":[
         "Antarktika"
@@ -639,6 +651,9 @@
     "name:swe_x_preferred":[
         "Antraktis",
         "Antarktis"
+    ],
+    "name:swe_x_variant":[
+        "Antarktisf\u00f6rdragets omr\u00e5de"
     ],
     "name:szl_x_preferred":[
         "Antarktyda"
@@ -885,7 +900,7 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1536616313,
+    "wof:lastmodified":1563583264,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",
