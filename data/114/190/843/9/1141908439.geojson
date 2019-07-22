@@ -14,6 +14,12 @@
     "lbl:longitude":110.536214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Base Casey"
+    ],
+    "name:ceb_x_preferred":[
+        "Casey Station"
+    ],
     "name:deu_x_preferred":[
         "Casey-Station"
     ],
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":1141908439,
-    "wof:lastmodified":1561792318,
+    "wof:lastmodified":1563583281,
     "wof:name":"Casey Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

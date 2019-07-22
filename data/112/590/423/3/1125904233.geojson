@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Base Cient\u00edfica Ant\u00e0rtica Artigas"
     ],
+    "name:ceb_x_preferred":[
+        "Artigas Base"
+    ],
     "name:deu_x_preferred":[
         "Base Cient\u00edfica Ant\u00e1rtica Artigas"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:fra_x_preferred":[
         "base antartique General Artigas"
+    ],
+    "name:fra_x_variant":[
+        "base Artigas"
     ],
     "name:hrv_x_preferred":[
         "Istra\u017eiva\u010dka baza Artigas"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1125904233,
-    "wof:lastmodified":1561792317,
+    "wof:lastmodified":1563583273,
     "wof:name":"Artigas Base",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -16,8 +16,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
+    "name:aze_x_preferred":[
+        "Yenilazarev"
+    ],
+    "name:ceb_x_preferred":[
+        "Novolazarevskaya Station"
+    ],
     "name:ces_x_preferred":[
         "Novolazarevsk\u00e1 stanice"
+    ],
+    "name:chv_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043b\u0430\u0437\u0430\u0440\u0435\u0432\u0441\u043a\u0430\u044f"
     ],
     "name:deu_x_preferred":[
         "Nowolasarewskaja-Station"
@@ -28,11 +37,17 @@
     "name:eng_x_variant":[
         "Novolazarevskaya Station"
     ],
+    "name:fin_x_preferred":[
+        "Novolazarevskaja"
+    ],
     "name:fra_x_preferred":[
         "base antarctique Novolazarevskaya"
     ],
     "name:ita_x_preferred":[
         "Stazione Novolazarevskaja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30dc\u30e9\u30b6\u30ec\u30d5\u30b9\u30ab\u30e4\u57fa\u5730"
     ],
     "name:lav_x_preferred":[
         "Novolazarevska"
@@ -197,7 +212,7 @@
         }
     ],
     "wof:id":890435319,
-    "wof:lastmodified":1561792317,
+    "wof:lastmodified":1563583272,
     "wof:name":"Novolazarevskaya Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

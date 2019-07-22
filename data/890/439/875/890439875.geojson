@@ -34,11 +34,20 @@
     "name:fra_x_preferred":[
         "base antarctique Carlini"
     ],
+    "name:hun_x_preferred":[
+        "Carlini kutat\u00f3\u00e1llom\u00e1s"
+    ],
     "name:ita_x_preferred":[
         "Base Jubany"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30ea\u30fc\u30cb\u57fa\u5730"
+    ],
     "name:lav_x_preferred":[
         "Karl\u012bni"
+    ],
+    "name:lij_x_preferred":[
+        "B\u00e2ze Carlini"
     ],
     "name:nld_x_preferred":[
         "Carlini Station"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":890439875,
-    "wof:lastmodified":1561792315,
+    "wof:lastmodified":1563583266,
     "wof:name":"Jubany",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

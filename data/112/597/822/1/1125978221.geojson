@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Base Troll"
     ],
+    "name:ceb_x_preferred":[
+        "Troll research station"
+    ],
     "name:ces_x_preferred":[
         "Troll"
     ],
@@ -47,6 +50,9 @@
     "name:ita_x_preferred":[
         "stazione di ricerca Troll"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ed\u30eb\u57fa\u5730"
+    ],
     "name:lav_x_preferred":[
         "Trolla"
     ],
@@ -69,11 +75,17 @@
     "name:pol_x_preferred":[
         "Troll"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u043b\u043b\u044c"
+    ],
     "name:spa_x_preferred":[
         "Base Troll"
     ],
     "name:swe_x_preferred":[
         "Troll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u043e\u043b\u044c"
     ],
     "name:zho_x_preferred":[
         "\u7279\u7f85\u723e\u7ad9"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1125978221,
-    "wof:lastmodified":1561792317,
+    "wof:lastmodified":1563583275,
     "wof:name":"Troll research station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
