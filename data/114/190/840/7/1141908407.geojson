@@ -14,6 +14,48 @@
     "lbl:longitude":-58.650476,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Base Carlini"
+    ],
+    "name:deu_x_preferred":[
+        "Carlini-Station"
+    ],
+    "name:fin_x_preferred":[
+        "Carlini"
+    ],
+    "name:fra_x_preferred":[
+        "Base antarctique Carlini"
+    ],
+    "name:hun_x_preferred":[
+        "Carlini kutat\u00f3\u00e1llom\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Stazione Carlini"
+    ],
+    "name:lav_x_preferred":[
+        "Karl\u012bni"
+    ],
+    "name:lij_x_preferred":[
+        "B\u00e2ze Carlini"
+    ],
+    "name:nno_x_preferred":[
+        "Carlini-stasjonen"
+    ],
+    "name:nor_x_preferred":[
+        "Carlini"
+    ],
+    "name:pol_x_preferred":[
+        "Stacja Carlini"
+    ],
+    "name:por_x_preferred":[
+        "Base Carlini"
+    ],
+    "name:spa_x_preferred":[
+        "Base Carlini"
+    ],
+    "name:swe_x_preferred":[
+        "Carlini"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
     "ne:ADM0_A3":"ATA",
@@ -127,7 +169,7 @@
         }
     ],
     "wof:id":1141908407,
-    "wof:lastmodified":1508889546,
+    "wof:lastmodified":1564215331,
     "wof:name":"Carlini Base",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
