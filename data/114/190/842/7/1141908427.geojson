@@ -14,6 +14,153 @@
     "lbl:longitude":-90.596643,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Peter I-Eiland"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0628\u0637\u0631\u0633 \u0627\u0644\u0623\u0648\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Islla Pedru"
+    ],
+    "name:aze_x_preferred":[
+        "I Pyotr adas\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u041f\u044f\u0442\u0440\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09bf\u099f\u09be\u09b0 \u09e7 \u09a6\u09cd\u09ac\u09c0\u09aa"
+    ],
+    "name:bre_x_preferred":[
+        "Enez P\u00ear Ia\u00f1"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0442\u044a\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Peter I \u00d8y"
+    ],
+    "name:ces_x_preferred":[
+        "Ostrov Petra"
+    ],
+    "name:che_x_preferred":[
+        "I \u041f\u0435\u0442\u0440\u0430\u043d \u0433\u04c0\u0430\u0439\u0440\u0435"
+    ],
+    "name:dan_x_preferred":[
+        "Peter I's"
+    ],
+    "name:deu_x_preferred":[
+        "Peter-I.-Insel"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b7\u03c3\u03af \u03c4\u03bf\u03c5 \u03a0\u03ad\u03c4\u03c1\u03bf\u03c5"
+    ],
+    "name:epo_x_preferred":[
+        "Insulo Petro la Unua"
+    ],
+    "name:est_x_preferred":[
+        "Peeter I saar"
+    ],
+    "name:eus_x_preferred":[
+        "Petri I.a uhartea"
+    ],
+    "name:fao_x_preferred":[
+        "Peteroy"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u067e\u062a\u0631 \u06cc\u06a9\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Pietari I:n saari"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Pierre-Ier"
+    ],
+    "name:fry_x_preferred":[
+        "Peter I-eil\u00e2n"
+    ],
+    "name:gle_x_preferred":[
+        "Oile\u00e1n Pheadar"
+    ],
+    "name:glg_x_preferred":[
+        "Illa Pedro"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d8\u05e8 \u05d4\u05e8\u05d0\u05e9\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "I. P\u00e9ter-sziget"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u057f\u0580\u0578\u057d I-\u056b \u056f\u0572\u0566\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Peter"
+    ],
+    "name:ita_x_preferred":[
+        "Isola Pietro"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0406 \u041f\u0435\u0442\u0440 \u0430\u0440\u0430\u043b\u044b"
+    ],
+    "name:lav_x_preferred":[
+        "P\u0113tera I Sala"
+    ],
+    "name:lit_x_preferred":[
+        "Petro I sala"
+    ],
+    "name:nld_x_preferred":[
+        "Peter I-eiland"
+    ],
+    "name:nno_x_preferred":[
+        "Peter I \u00d8y"
+    ],
+    "name:nor_x_preferred":[
+        "Peter I \u00d8y"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspa Piotra"
+    ],
+    "name:ron_x_preferred":[
+        "Insula Petru"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432 \u041f\u0435\u0442\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Peter I Island"
+    ],
+    "name:slk_x_preferred":[
+        "Ostrov Petra"
+    ],
+    "name:slv_x_preferred":[
+        "Otok Petra"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Pedro"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0432\u043e \u041f\u0435\u0442\u0440\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "Pulo Peter"
+    ],
+    "name:swe_x_preferred":[
+        "Peter I:s \u00f6"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0435\u0442\u0440 I \u0443\u0442\u0440\u0430\u0432\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0456\u0432 \u041f\u0435\u0442\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u067e\u06cc\u0679\u0631 \u0627\u0648\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f7c\u5f97\u4e00\u4e16\u5c9b"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
     "ne:ADM0_A3":"ATA",
@@ -127,7 +274,7 @@
         }
     ],
     "wof:id":1141908427,
-    "wof:lastmodified":1508889546,
+    "wof:lastmodified":1564215326,
     "wof:name":"Peter I Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
