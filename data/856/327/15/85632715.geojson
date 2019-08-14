@@ -14,6 +14,9 @@
     "itu:country_code":[
         "672"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AQ"
+    ],
     "lbl:latitude":-79.843222,
     "lbl:longitude":35.885456,
     "mps:latitude":-79.843222,
@@ -900,7 +903,7 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1563583264,
+    "wof:lastmodified":1565652019,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",
