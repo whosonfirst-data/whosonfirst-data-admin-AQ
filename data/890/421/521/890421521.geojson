@@ -11,8 +11,11 @@
     "geom:longitude":-26.209,
     "gn:country":"AQ",
     "gn:fcode":"STNB",
-    "gn:pop":50,
+    "gn:population":50,
     "iso:country":"AQ",
+    "lbl:bbox":"-26.229,-75.62463,-26.189,-75.58463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.1,
@@ -204,7 +207,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6620756,
-        "qs:id":105153,
+        "qs_pg:id":105153,
         "wd:id":"Q1571679",
         "wk:page":"Halley Research Station"
     },
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":890421521,
-    "wof:lastmodified":1563583269,
+    "wof:lastmodified":1566587523,
     "wof:name":"Halley Research Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

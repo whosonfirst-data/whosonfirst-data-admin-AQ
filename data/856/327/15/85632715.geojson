@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":-79.843222,
     "lbl:longitude":35.885456,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-79.843222,
     "mps:longitude":35.885456,
     "mz:hierarchy_label":1,
@@ -859,7 +861,7 @@
         "quattroshapes",
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "statoids:dial":"672",
     "statoids:ds":"",
@@ -889,7 +891,7 @@
         "m49:code":"010",
         "marc:id":"ay",
         "ne:adm0_a3":"ATA",
-        "qs:id":1209135,
+        "qs_pg:id":1209135,
         "wd:id":"Q21590062",
         "wmo:id":"AA"
     },
@@ -903,7 +905,7 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1565652019,
+    "wof:lastmodified":1566587520,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",

@@ -11,10 +11,14 @@
     "geom:longitude":123.33333,
     "gn:country":"AQ",
     "gn:fcode":"STNB",
-    "gn:pop":32,
+    "gn:population":32,
     "iso:country":"AQ",
+    "lbl:bbox":"123.31333,-75.12,123.35333,-75.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0637\u0629 \u0643\u0648\u0646\u0643\u0648\u0631\u062f\u064a\u0627"
     ],
@@ -107,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6620746,
-        "qs:id":160931,
+        "qs_pg:id":160931,
         "wd:id":"Q403127",
         "wk:page":"Concordia Station"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890435337,
-    "wof:lastmodified":1563583271,
+    "wof:lastmodified":1566587523,
     "wof:name":"Concordia Station",
     "wof:parent_id":85681139,
     "wof:placetype":"locality",

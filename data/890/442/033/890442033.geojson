@@ -11,8 +11,11 @@
     "geom:longitude":166.76624,
     "gn:country":"AQ",
     "gn:fcode":"STNB",
-    "gn:pop":85,
+    "gn:population":85,
     "iso:country":"AQ",
+    "lbl:bbox":"166.74624,-77.86891,166.78624,-77.82891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -103,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u043e\u0442\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Scott Base /N.Z./"
     ],
     "name:zho_x_preferred":[
@@ -216,7 +219,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6620787,
-        "qs:id":160941,
+        "qs_pg:id":160941,
         "wd:id":"Q1136714",
         "wk:page":"Scott Base"
     },
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":890442033,
-    "wof:lastmodified":1563583270,
+    "wof:lastmodified":1566587523,
     "wof:name":"Scott Base",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

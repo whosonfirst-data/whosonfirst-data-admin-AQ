@@ -9,15 +9,18 @@
     "geom:bbox":"93.00073,-66.55836,93.00073,-66.55836",
     "geom:latitude":-66.55836,
     "geom:longitude":93.00073,
-    "gn:gn_country":"AQ",
-    "gn:gn_fcode":"STNB",
-    "gn:gn_pop":169,
+    "gn:country":"AQ",
+    "gn:fcode":"STNB",
     "gn:population":169,
     "iso:country":"AQ",
+    "lbl:bbox":"92.98073,-66.57836,93.02073,-66.53836",
     "lbl:latitude":-66.55836,
     "lbl:longitude":93.00073,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "Mirn\u0131"
@@ -103,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0440\u043d\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "Mirny"
-    ],
     "name:zho_x_preferred":[
         "\u7c73\u723e\u5c3c\u7ad9"
     ],
@@ -121,7 +121,7 @@
     "qs_pg:qs_id":1053799,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1125905019,
-    "wof:lastmodified":1563583274,
+    "wof:lastmodified":1566587524,
     "wof:name":"Mirny Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
