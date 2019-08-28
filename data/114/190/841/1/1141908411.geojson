@@ -10,10 +10,14 @@
     "geom:latitude":-62.21632,
     "geom:longitude":-58.966696,
     "iso:country":"AQ",
+    "lbl:bbox":"-58.986695599,-62.236319968,-58.946695599,-62.196319968",
     "lbl:latitude":-62.21632,
     "lbl:longitude":-58.966696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0637\u0629 \u0627\u0644\u0633\u0648\u0631 \u0627\u0644\u0639\u0638\u064a\u0645"
     ],
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":1141908411,
-    "wof:lastmodified":1563583284,
+    "wof:lastmodified":1566587528,
     "wof:name":"Great Wall Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

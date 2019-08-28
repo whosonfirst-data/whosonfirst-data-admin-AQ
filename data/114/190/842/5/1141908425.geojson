@@ -10,10 +10,14 @@
     "geom:latitude":-78.466284,
     "geom:longitude":106.800034,
     "iso:country":"AQ",
+    "lbl:bbox":"106.780033731,-78.4862841608,106.820033731,-78.4462841608",
     "lbl:latitude":-78.466284,
     "lbl:longitude":106.800034,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Vostok"
     ],
@@ -214,7 +218,7 @@
         }
     ],
     "wof:id":1141908425,
-    "wof:lastmodified":1564215328,
+    "wof:lastmodified":1566587526,
     "wof:name":"Vostok",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

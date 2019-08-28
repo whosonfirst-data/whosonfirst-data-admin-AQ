@@ -10,10 +10,14 @@
     "geom:latitude":-69.434063,
     "geom:longitude":76.339298,
     "iso:country":"AQ",
+    "lbl:bbox":"76.3192980814,-69.4540629918,76.3592980814,-69.4140629918",
     "lbl:latitude":-69.434063,
     "lbl:longitude":76.339298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0637\u0629 \u0632\u0647\u0648\u0646\u063a\u0634\u0627\u0646"
     ],
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":1141908423,
-    "wof:lastmodified":1563583280,
+    "wof:lastmodified":1566587526,
     "wof:name":"Zhongshan Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

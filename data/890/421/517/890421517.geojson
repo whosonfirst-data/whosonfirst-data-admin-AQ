@@ -11,8 +11,11 @@
     "geom:longitude":140.0,
     "gn:country":"AQ",
     "gn:fcode":"STNB",
-    "gn:pop":30,
+    "gn:population":30,
     "iso:country":"AQ",
+    "lbl:bbox":"139.98,-66.68667,140.02,-66.64667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
@@ -91,7 +94,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u044e\u043c\u043e\u043d \u0414\u044e\u0440\u0432\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dumont d'Urville, Base"
     ],
     "name:zho_x_preferred":[
@@ -204,7 +207,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6620749,
-        "qs:id":105151,
+        "qs_pg:id":105151,
         "wd:id":"Q403901",
         "wk:page":"Dumont d'Urville Station"
     },
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":890421517,
-    "wof:lastmodified":1563583268,
+    "wof:lastmodified":1566587522,
     "wof:name":"Dumont d'Urville Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

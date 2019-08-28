@@ -10,10 +10,14 @@
     "geom:latitude":-61.999589,
     "geom:longitude":-57.999985,
     "iso:country":"AQ",
+    "lbl:bbox":"-58.0199845801,-62.019589011,-57.9799845801,-61.979589011",
     "lbl:latitude":-61.999589,
     "lbl:longitude":-57.999985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Elpend\u012beg"
     ],
@@ -220,7 +224,7 @@
         }
     ],
     "wof:id":1141908415,
-    "wof:lastmodified":1564215330,
+    "wof:lastmodified":1566587528,
     "wof:name":"Elephant Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
