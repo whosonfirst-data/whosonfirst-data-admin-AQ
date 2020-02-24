@@ -213,6 +213,9 @@
     },
     "wof:country":"AQ",
     "wof:created":1469051396,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"9db20605e323842899377923dc0931c5",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":890421521,
-    "wof:lastmodified":1566587523,
+    "wof:lastmodified":1582356322,
     "wof:name":"Halley Research Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -204,6 +204,9 @@
     },
     "wof:country":"AQ",
     "wof:created":1469052063,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"501d742c503a843acbe0ddc1754d01fa",
     "wof:hierarchy":[
         {
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":890435319,
-    "wof:lastmodified":1566587524,
+    "wof:lastmodified":1582356323,
     "wof:name":"Novolazarevskaya Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
