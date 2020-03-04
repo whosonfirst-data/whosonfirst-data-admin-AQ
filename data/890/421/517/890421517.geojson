@@ -213,6 +213,9 @@
     },
     "wof:country":"AQ",
     "wof:created":1469051396,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"e3417346484720ead5424c2d0094e7fb",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":890421517,
-    "wof:lastmodified":1566587522,
+    "wof:lastmodified":1582356322,
     "wof:name":"Dumont d'Urville Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

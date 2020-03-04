@@ -250,6 +250,9 @@
     },
     "wof:country":"AQ",
     "wof:created":1469051252,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"e4bab7122e93c6cf98aac328b9d50fd8",
     "wof:hierarchy":[
         {
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":890418557,
-    "wof:lastmodified":1561792316,
+    "wof:lastmodified":1582356323,
     "wof:name":"McMurdo Station",
     "wof:parent_id":85681139,
     "wof:placetype":"locality",

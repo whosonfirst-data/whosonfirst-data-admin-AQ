@@ -225,6 +225,9 @@
     },
     "wof:country":"AQ",
     "wof:created":1469052348,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"54cdf50adceb1ccb8f974872ae2eeb59",
     "wof:hierarchy":[
         {
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":890442033,
-    "wof:lastmodified":1566587523,
+    "wof:lastmodified":1582356323,
     "wof:name":"Scott Base",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

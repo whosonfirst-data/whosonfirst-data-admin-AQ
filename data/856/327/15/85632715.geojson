@@ -897,6 +897,10 @@
     },
     "wof:country":"AQ",
     "wof:country_alpha3":"ATA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"ca83b481ddb7e25b51fafa797ec70dec",
     "wof:hierarchy":[
         {
@@ -905,7 +909,7 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1566587520,
+    "wof:lastmodified":1582356321,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",

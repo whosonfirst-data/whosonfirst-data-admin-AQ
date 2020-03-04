@@ -195,6 +195,9 @@
     },
     "wof:country":"AQ",
     "wof:created":1469052063,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"cc01e6c34f41af9dcb4c0fd0f35437d3",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":890435329,
-    "wof:lastmodified":1566587524,
+    "wof:lastmodified":1582356323,
     "wof:name":"Palmer Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
