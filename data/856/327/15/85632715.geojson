@@ -882,6 +882,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:country_code":[
+            10
+        ],
         "fifa:id":"ROS",
         "fips:code":"AY",
         "gaul:id":"10",
@@ -909,7 +912,7 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1582356321,
+    "wof:lastmodified":1583529072,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",
