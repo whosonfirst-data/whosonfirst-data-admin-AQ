@@ -33,6 +33,9 @@
     "name:afr_x_preferred":[
         "Antarktika"
     ],
+    "name:afr_x_variant":[
+        "Antarktiese verdragsgebied"
+    ],
     "name:als_x_preferred":[
         "Antarktika"
     ],
@@ -243,6 +246,9 @@
     "name:gan_x_preferred":[
         "\u5357\u6975\u6d32"
     ],
+    "name:gan_x_variant":[
+        "\u5357\u6975\u689d\u7d04\u5730\u5340"
+    ],
     "name:gla_x_preferred":[
         "Antargtaga"
     ],
@@ -339,6 +345,9 @@
     "name:isl_x_preferred":[
         "Su\u00f0urskautslandi\u00f0"
     ],
+    "name:isl_x_variant":[
+        "Antarctic s\u00e1ttm\u00e1lasv\u00e6\u00f0i\u00f0"
+    ],
     "name:ita_x_preferred":[
         "Antartide"
     ],
@@ -354,6 +363,9 @@
     "name:jpn_x_preferred":[
         "\u5357\u6975",
         "\u5357\u6975\u5927\u9678"
+    ],
+    "name:jpn_x_variant":[
+        "\u5357\u6975\u6761\u7d04\u30a8\u30ea\u30a2"
     ],
     "name:kaa_x_preferred":[
         "Antarktika"
@@ -446,6 +458,9 @@
     "name:ltz_x_preferred":[
         "Antarktis"
     ],
+    "name:lzh_x_preferred":[
+        "\u5357\u6975\u689d\u7d04\u5730\u5340"
+    ],
     "name:mai_x_preferred":[
         "\u0905\u0902\u091f\u093e\u0930\u094d\u0915\u091f\u093f\u0915\u093e"
     ],
@@ -511,6 +526,9 @@
     ],
     "name:nno_x_preferred":[
         "Antarktis"
+    ],
+    "name:nno_x_variant":[
+        "Antarktis traktat-omr\u00e5de"
     ],
     "name:nob_x_preferred":[
         "Antarktis"
@@ -691,7 +709,8 @@
         "\u0e17\u0e27\u0e35\u0e1b\u0e41\u0e2d\u0e19\u0e15\u0e32\u0e23\u0e4c\u0e01\u0e15\u0e34\u0e01\u0e32"
     ],
     "name:tha_x_variant":[
-        "\u0e41\u0e2d\u0e19\u0e15\u0e32\u0e23\u0e4c\u0e01\u0e15\u0e34\u0e01\u0e32"
+        "\u0e41\u0e2d\u0e19\u0e15\u0e32\u0e23\u0e4c\u0e01\u0e15\u0e34\u0e01\u0e32",
+        "\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e19\u0e18\u0e34\u0e2a\u0e31\u0e0d\u0e0d\u0e32\u0e41\u0e2d\u0e19\u0e15\u0e32\u0e23\u0e4c\u0e01\u0e15\u0e34\u0e01"
     ],
     "name:tir_x_preferred":[
         "\u12a0\u1295\u1273\u122d\u12ad\u1272\u12ab"
@@ -747,6 +766,9 @@
     "name:wuu_x_preferred":[
         "\u5357\u6975\u6d32"
     ],
+    "name:wuu_x_variant":[
+        "\u5357\u6781\u6761\u7ea6\u5730\u533a"
+    ],
     "name:xal_x_preferred":[
         "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a"
     ],
@@ -759,20 +781,42 @@
     "name:yor_x_preferred":[
         "Ant\u00e1rkt\u00eck\u00e0"
     ],
+    "name:yue_x_preferred":[
+        "\u5357\u6975\u689d\u7d04\u5730\u5340"
+    ],
     "name:zea_x_preferred":[
         "Antartica"
     ],
     "name:zha_x_preferred":[
         "Namzgigcouh"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5357\u6781\u6761\u7ea6\u5730\u533a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5357\u6975\u689d\u7d04\u5730\u5340"
+    ],
     "name:zho_min_nan_x_preferred":[
         "L\u00e2m-ke\u030dk T\u0101i-lio\u030dk"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5357\u6975\u689d\u7d04\u5730\u5340"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5357\u6781\u6761\u7ea6\u5730\u533a"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5357\u6781\u6761\u7ea6\u5730\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5357\u6975\u689d\u7d04\u5730\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5357\u6781\u6d32"
     ],
     "name:zho_x_variant":[
-        "\u5357\u6975\u6d32"
+        "\u5357\u6975\u6d32",
+        "\u5357\u6781\u6761\u7ea6\u5730\u533a"
     ],
     "name:zho_yue_x_preferred":[
         "\u5357\u6975\u6d32"
@@ -910,7 +954,7 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1583797276,
+    "wof:lastmodified":1587427743,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",

@@ -91,6 +91,9 @@
     "name:swe_x_preferred":[
         "Dumont d'Urville"
     ],
+    "name:tur_x_preferred":[
+        "Dumont d'Urville \u0130stasyonu"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u044e\u043c\u043e\u043d \u0414\u044e\u0440\u0432\u0456\u043b\u044c"
     ],
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":890421517,
-    "wof:lastmodified":1582356322,
+    "wof:lastmodified":1587427744,
     "wof:name":"Dumont d'Urville Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

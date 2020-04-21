@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
+    "name:cat_x_preferred":[
+        "Base Palmer"
+    ],
     "name:ceb_x_preferred":[
         "Palmer Station"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:fra_x_variant":[
         "base antarctique Palmer"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d7\u05e0\u05ea \u05e4\u05d0\u05dc\u05de\u05e8"
     ],
     "name:ita_x_preferred":[
         "stazione Palmer"
@@ -206,7 +212,7 @@
         }
     ],
     "wof:id":890435329,
-    "wof:lastmodified":1582356323,
+    "wof:lastmodified":1587427745,
     "wof:name":"Palmer Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
