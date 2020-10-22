@@ -9,7 +9,6 @@
     "geom:bbox":"-180.0,-90.0,180.0,-60.516209",
     "geom:latitude":-80.508219,
     "geom:longitude":19.908399,
-    "gn:id":"",
     "iso:country":"AQ",
     "itu:country_code":[
         "672"
@@ -944,7 +943,8 @@
     "wof:country_alpha3":"ATA",
     "wof:geom_alt":[
         "quattroshapes",
-        "naturalearth-display-terrestrial-zoom6"
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
     ],
     "wof:geomhash":"ca83b481ddb7e25b51fafa797ec70dec",
     "wof:hierarchy":[
@@ -954,7 +954,7 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1587427743,
+    "wof:lastmodified":1603259597,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",
