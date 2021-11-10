@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.5966425328,-68.7556180727,-90.5966425328,-68.7556180727",
+    "geom:bbox":"-90.596643,-68.755618,-90.596643,-68.755618",
     "geom:latitude":-68.755618,
     "geom:longitude":-90.596643,
     "iso:country":"AQ",
@@ -160,7 +160,19 @@
         "\u041e\u0441\u0442\u0440\u0456\u0432 \u041f\u0435\u0442\u0440\u0430"
     ],
     "name:urd_x_preferred":[
+        "\u067e\u06cc\u0679\u0631 \u0622\u0626\u06cc \u0622\u0626\u06cc\u0644\u06cc\u0646\u0688"
+    ],
+    "name:urd_x_variant":[
         "\u062c\u0632\u06cc\u0631\u06c1 \u067e\u06cc\u0679\u0631 \u0627\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Peter I"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5f7c\u5f97\u4e00\u4e16\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5f7c\u5f97\u4e00\u4e16\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u5f7c\u5f97\u4e00\u4e16\u5c9b"
@@ -269,7 +281,7 @@
     "wof:concordances":{},
     "wof:country":"AQ",
     "wof:created":1499130899,
-    "wof:geomhash":"cba102f65e7a71b24c30061b4a7521db",
+    "wof:geomhash":"0d0784b88c1d1a5293f0a0699549488a",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -278,7 +290,7 @@
         }
     ],
     "wof:id":1141908427,
-    "wof:lastmodified":1566587526,
+    "wof:lastmodified":1636502606,
     "wof:name":"Peter I Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -288,10 +300,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.59664253281083,
-    -68.7556180727382,
-    -90.59664253281083,
-    -68.7556180727382
+    -90.596643,
+    -68.755618,
+    -90.596643,
+    -68.755618
 ],
-  "geometry": {"coordinates":[-90.59664253281083,-68.7556180727382],"type":"Point"}
+  "geometry": {"coordinates":[-90.596643,-68.755618],"type":"Point"}
 }

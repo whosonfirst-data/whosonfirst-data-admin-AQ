@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-59.6833185238,-62.499506817,-59.6833185238,-62.499506817",
+    "geom:bbox":"-59.683319,-62.499507,-59.683319,-62.499507",
     "geom:latitude":-62.499507,
     "geom:longitude":-59.683319,
     "iso:country":"AQ",
@@ -18,6 +18,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09af\u09be\u09aa\u09bf\u09a4\u09be\u09a8 \u0986\u09b0\u099f\u09c1\u09b0\u09cb \u09aa\u09cd\u09b0\u09cd\u09af\u09be\u099f \u09b8\u09cd\u099f\u09c7\u09b6\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c0\u03b9\u03c4\u03ac\u03bd \u0391\u03c1\u03c4\u03bf\u03cd\u03c1\u03bf \u03a0\u03c1\u03b1\u03c4 \u03a3\u03c4\u03ad\u03b9\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u06af\u0627\u0647 \u06a9\u0627\u067e\u06cc\u062a\u0627\u0646 \u0622\u0631\u062a\u0648\u0631\u0648 \u067e\u0631\u0627\u062a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d7\u05e0\u05ea \u05e7\u05e4\u05d8\u05df \u05d0\u05e8\u05d8\u05d5\u05e8\u05d5 \u05e4\u05e8\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0948\u092a\u093f\u091f\u0928 \u0906\u0930\u094d\u091f\u0930\u094b \u092a\u094d\u0930\u0948\u091f \u0938\u094d\u091f\u0947\u0936\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Capitan Arturo Prat Station"
+    ],
+    "name:ind_x_preferred":[
+        "Pangkalan Kapten Arturo Prat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30d4\u30bf\u30f3\u30a2\u30eb\u30c8\u30a5\u30fc\u30ed\u30d7\u30e9\u30c3\u30c8\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\uce90\ud53c\ud0c4 \uc544\ub974\ud22c\ub85c \ud504\ub77c\ud2b8 \uc2a4\ud14c\uc774\uc158"
+    ],
+    "name:tur_x_preferred":[
+        "Kaptan Arturo Prat \u00dcss\u00fc"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u067e\u06cc\u062a\u0627\u0646 \u0622\u0631\u0679\u0648\u0631\u0648 \u067e\u0631\u06cc\u0679 \u0627\u0633\u0679\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m Capitan Arturo Prat"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
     "ne:ADM0_A3":"ATA",
@@ -122,7 +158,7 @@
     "wof:concordances":{},
     "wof:country":"AQ",
     "wof:created":1499130891,
-    "wof:geomhash":"713887e86123f8da3253c58b1e66f23e",
+    "wof:geomhash":"bfd76e31db2a056ec2308c4261c336b0",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -131,7 +167,7 @@
         }
     ],
     "wof:id":1141908393,
-    "wof:lastmodified":1566587531,
+    "wof:lastmodified":1636502611,
     "wof:name":"Capitan Arturo Prat Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -141,10 +177,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -59.68331852378873,
-    -62.49950681696538,
-    -59.68331852378873,
-    -62.49950681696538
+    -59.683319,
+    -62.499507,
+    -59.683319,
+    -62.499507
 ],
-  "geometry": {"coordinates":[-59.68331852378873,-62.49950681696538],"type":"Point"}
+  "geometry": {"coordinates":[-59.683319,-62.499507],"type":"Point"}
 }

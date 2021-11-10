@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.7460831033,-69.0303924877,39.7460831033,-69.0303924877",
+    "geom:bbox":"39.746083,-69.030392,39.746083,-69.030392",
     "geom:latitude":-69.030392,
     "geom:longitude":39.746083,
     "iso:country":"AQ",
@@ -24,6 +24,9 @@
     "name:aze_x_preferred":[
         "\u015eova"
     ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09cb\u09df\u09be \u09b8\u09cd\u099f\u09c7\u09b6\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Showa Station"
     ],
@@ -33,8 +36,14 @@
     "name:deu_x_preferred":[
         "Sh\u014dwa-Station"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03b3\u03bf\u03c5\u03b1 \u03a3\u03c4\u03ad\u03b9\u03c3\u03b9\u03bf\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Showa Station"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u06af\u0627\u0647 \u0634\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Showa"
@@ -44,6 +53,18 @@
     ],
     "name:fra_x_variant":[
         "base antarctique Sh\u014dwa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d7\u05e0\u05ea \u05e9\u05d5\u05d5\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u094b\u0935\u093e \u0938\u094d\u091f\u0947\u0936\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Showa Station"
+    ],
+    "name:ind_x_preferred":[
+        "Stasiun Showa"
     ],
     "name:ita_x_preferred":[
         "Stazione Sh\u014dwa"
@@ -83,6 +104,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u044c\u043e\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0648\u0648\u0627 \u0627\u0633\u0679\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m Showa"
     ],
     "name:zho_x_preferred":[
         "\u662d\u548c\u57fa\u5730"
@@ -193,7 +220,7 @@
     },
     "wof:country":"AQ",
     "wof:created":1499130912,
-    "wof:geomhash":"d88f5a74f74c27028d46219ca026330f",
+    "wof:geomhash":"3033412d9411bcb694e6e303624ed329",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -202,7 +229,7 @@
         }
     ],
     "wof:id":1141908483,
-    "wof:lastmodified":1566587529,
+    "wof:lastmodified":1636502610,
     "wof:name":"Showa Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -212,10 +239,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.74608310330458,
-    -69.03039248766216,
-    39.74608310330458,
-    -69.03039248766216
+    39.746083,
+    -69.030392,
+    39.746083,
+    -69.030392
 ],
-  "geometry": {"coordinates":[39.74608310330458,-69.03039248766216],"type":"Point"}
+  "geometry": {"coordinates":[39.746083,-69.03039200000001],"type":"Point"}
 }

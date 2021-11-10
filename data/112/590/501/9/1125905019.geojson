@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0637\u0629 \u0645\u064a\u0631\u0646\u064a"
+    ],
     "name:aze_x_preferred":[
         "Mirn\u0131"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u09b0\u09cd\u09a8\u09bf \u09b8\u09cd\u099f\u09c7\u09b6\u09a8"
     ],
     "name:ceb_x_preferred":[
         "Mirny Station"
@@ -37,11 +43,17 @@
     "name:deu_x_preferred":[
         "Mirny-Station"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03c1\u03bd\u03b9 \u03a3\u03c4\u03ad\u03b9\u03c3\u03b9\u03bf\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Mirny Station (Russia)"
     ],
     "name:eng_x_variant":[
         "Mirny Station"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u06af\u0627\u0647 \u0645\u06cc\u0631\u0646\u06cc"
     ],
     "name:fin_x_preferred":[
         "Mirnyi"
@@ -49,11 +61,20 @@
     "name:fra_x_preferred":[
         "base antarctique Mirny"
     ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d7\u05e0\u05ea \u05de\u05d9\u05e8\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0930\u094d\u0928\u0940 \u0938\u094d\u091f\u0947\u0936\u0928"
+    ],
     "name:hun_x_preferred":[
         "Mirnij kutat\u00f3\u00e1llom\u00e1s"
     ],
     "name:hye_x_preferred":[
         "\u0544\u056b\u057c\u0576\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Stasiun Mirny"
     ],
     "name:ita_x_preferred":[
         "Mirnyj"
@@ -63,6 +84,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10e0\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d3\u10d2\u10e3\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ub974\ub2c8 \uc2a4\ud14c\uc774\uc158"
     ],
     "name:lav_x_preferred":[
         "Mirnija"
@@ -106,6 +130,12 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0440\u043d\u0438\u0439"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0631\u0646\u06cc \u0627\u0633\u0679\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m Mirny"
+    ],
     "name:zho_x_preferred":[
         "\u7c73\u723e\u5c3c\u7ad9"
     ],
@@ -142,7 +172,7 @@
         }
     ],
     "wof:id":1125905019,
-    "wof:lastmodified":1566587524,
+    "wof:lastmodified":1636502605,
     "wof:name":"Mirny Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

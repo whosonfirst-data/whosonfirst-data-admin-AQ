@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-58.7715987645,-62.2248533974,-58.7715987645,-62.2248533974",
+    "geom:bbox":"-58.771599,-62.224853,-58.771599,-62.224853",
     "geom:latitude":-62.224853,
     "geom:longitude":-58.771599,
     "gn:country":"AQ",
@@ -21,17 +21,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0637\u0629 \u0643\u064a\u0646\u063a \u0633\u064a\u062c\u0648\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u0982 \u09b8\u09c7\u099c\u0982 \u09b8\u09cd\u099f\u09c7\u09b6\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "King Sejong Station"
     ],
     "name:deu_x_preferred":[
         "K\u00f6nig-Sejong-Station"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bd\u03b3\u03ba \u03a3\u03b5\u03c4\u03b6\u03cc\u03bd\u03b3\u03ba \u03a3\u03c4\u03ad\u03b9\u03c3\u03b9\u03bf\u03bd"
+    ],
     "name:eng_x_preferred":[
         "King Sejong Station"
     ],
     "name:fra_x_preferred":[
         "base antarctique du roi Sejong"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d7\u05e0\u05ea \u05d4\u05de\u05dc\u05da \u05e1\u05d2'\u05d5\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0902\u0917 \u0938\u0947\u091c\u094b\u0902\u0917 \u0938\u094d\u091f\u0947\u0936\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "King Sejong Station"
+    ],
+    "name:ind_x_preferred":[
+        "Stasiun King Sejong"
     ],
     "name:ita_x_preferred":[
         "Base scientifica Sejong"
@@ -60,14 +81,26 @@
     "name:pol_x_preferred":[
         "King Sejong"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0433-\u0421\u0435\u0434\u0436\u043e\u043d\u0433"
+    ],
     "name:spa_x_preferred":[
         "Base Rey Sejong"
     ],
     "name:swe_x_preferred":[
         "King Sejong Station"
     ],
+    "name:tur_x_preferred":[
+        "Kral Sejong \u0130stasyonu"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043b\u044c \u0421\u0435\u0434\u0436\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0646\u06af \u0633\u06cc\u062c\u0648\u0646\u06af \u0627\u0633\u0679\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m King Sejong"
     ],
     "name:zho_x_preferred":[
         "\u4e16\u5b97\u79d1\u5b78\u57fa\u5730"
@@ -192,7 +225,7 @@
     },
     "wof:country":"AQ",
     "wof:created":1499130894,
-    "wof:geomhash":"7d0e03228fed8da941cde7e43771aafe",
+    "wof:geomhash":"96f7a1bd153205d314f61bef72a0ec6c",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -201,7 +234,7 @@
         }
     ],
     "wof:id":1141908409,
-    "wof:lastmodified":1566587530,
+    "wof:lastmodified":1636502610,
     "wof:name":"King Sejong Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -215,10 +248,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -58.77159876448513,
-    -62.22485339741286,
-    -58.77159876448513,
-    -62.22485339741286
+    -58.771599,
+    -62.224853,
+    -58.771599,
+    -62.224853
 ],
-  "geometry": {"coordinates":[-58.77159876448513,-62.22485339741286],"type":"Point"}
+  "geometry": {"coordinates":[-58.771599,-62.224853],"type":"Point"}
 }

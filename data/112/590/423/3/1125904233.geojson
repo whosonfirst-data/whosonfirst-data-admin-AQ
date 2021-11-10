@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0639\u062f\u0629 \u0623\u0631\u062a\u064a\u062c\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09cd\u09a4\u09bf\u0997\u09be\u09b8 \u09ac\u09c7\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Base Cient\u00edfica Ant\u00e0rtica Artigas"
     ],
@@ -31,11 +37,17 @@
     "name:deu_x_preferred":[
         "Base Cient\u00edfica Ant\u00e1rtica Artigas"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c4\u03af\u03b3\u03b1\u03b6 \u039c\u03c0\u03ad\u03b9\u03b6"
+    ],
     "name:eng_x_preferred":[
         "Artigas Base (Uruguay)"
     ],
     "name:eng_x_variant":[
         "Artigas Base"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u062a\u06cc\u06af\u0627\u0633 \u0628\u06cc\u0633"
     ],
     "name:fra_x_preferred":[
         "base antartique General Artigas"
@@ -43,11 +55,29 @@
     "name:fra_x_variant":[
         "base Artigas"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d8\u05d9\u05d2\u05e1 \u05d1\u05d9\u05d9\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u0924\u093f\u0917\u093e\u0938 \u092c\u0947\u0938"
+    ],
     "name:hrv_x_preferred":[
         "Istra\u017eiva\u010dka baza Artigas"
     ],
+    "name:hun_x_preferred":[
+        "Artigas Base"
+    ],
+    "name:ind_x_preferred":[
+        "Artigas Base"
+    ],
     "name:ita_x_preferred":[
         "Base Artigas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30c6\u30a3\u30ac\u30b9\u30d9\u30fc\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub974\ud2f0\uac00\uc2a4 \ubca0\uc774\uc2a4"
     ],
     "name:lav_x_preferred":[
         "Artigasa"
@@ -70,6 +100,9 @@
     "name:pol_x_preferred":[
         "Artigas"
     ],
+    "name:por_x_preferred":[
+        "Base Artigas"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0442\u0438\u0433\u0430\u0441"
     ],
@@ -79,8 +112,17 @@
     "name:swe_x_preferred":[
         "Artigas"
     ],
+    "name:tur_x_preferred":[
+        "Artigas Base"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0442\u0456\u0491\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u0679\u06cc\u06af\u0627\u0633 \u0628\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "C\u0103n c\u1ee9 Artigas"
     ],
     "name:zho_x_preferred":[
         "\u963f\u8482\u52a0\u65af\u7ad9"
@@ -121,7 +163,7 @@
         }
     ],
     "wof:id":1125904233,
-    "wof:lastmodified":1566587524,
+    "wof:lastmodified":1636502605,
     "wof:name":"Artigas Base",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

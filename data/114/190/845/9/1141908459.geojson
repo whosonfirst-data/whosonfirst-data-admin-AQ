@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-34.6166831884,-77.8663207819,-34.6166831884,-77.8663207819",
+    "geom:bbox":"-34.616683,-77.866321,-34.616683,-77.866321",
     "geom:latitude":-77.866321,
     "geom:longitude":-34.616683,
     "iso:country":"AQ",
@@ -21,11 +21,20 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0637\u0629 \u0627\u0644\u062c\u0646\u0631\u0627\u0644 \u0628\u0644\u063a\u0631\u0627\u0646\u0648 2"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b2\u0997\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cb II \u09ac\u09c7\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Belgrano II"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bb\u03b3\u03ba\u03c1\u03ac\u03bd\u03bf \u0399\u0399 \u039c\u03c0\u03ad\u03b9\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Belgrano II Base"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06af\u0631\u0627\u0646\u0648 \u0628\u06cc\u0633"
     ],
     "name:fin_x_preferred":[
         "General Belgrano II"
@@ -33,14 +42,26 @@
     "name:fra_x_preferred":[
         "base antarctique Belgrano II"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e1\u05d9\u05e1 \u05d1\u05dc\u05d2\u05e8\u05e0\u05d5 II"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0932\u0917\u094d\u0930\u093e\u0928\u094b II \u092c\u0947\u0938"
+    ],
     "name:hun_x_preferred":[
         "Belgrano II kutat\u00f3\u00e1llom\u00e1s"
+    ],
+    "name:ind_x_preferred":[
+        "Pangkalan Belgrano II"
     ],
     "name:ita_x_preferred":[
         "Base dell'esercito generale Belgrano II"
     ],
     "name:jpn_x_preferred":[
         "\u3078\u30cd\u30e9\u30eb\u30fb\u30d9\u30eb\u30b0\u30e9\u30ceII\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\uadf8\ub77c\ub178 II \ubca0\uc774\uc2a4"
     ],
     "name:lav_x_preferred":[
         "Belgrano II"
@@ -69,8 +90,17 @@
     "name:swe_x_preferred":[
         "Belgrano II"
     ],
+    "name:tur_x_preferred":[
+        "Belgrano II \u00dcss\u00fc"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u044c\u0491\u0440\u0430\u043d\u043e II"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0644\u06af\u0631\u0627\u0646\u0648 II \u0628\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "C\u0103n c\u1ee9 Belgrano II"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
@@ -178,7 +208,7 @@
     },
     "wof:country":"AQ",
     "wof:created":1499130906,
-    "wof:geomhash":"0c81cb33497aa9a3400027f547ca1ac3",
+    "wof:geomhash":"93a16214bc76a75c4074c245410509fa",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -187,7 +217,7 @@
         }
     ],
     "wof:id":1141908459,
-    "wof:lastmodified":1566587525,
+    "wof:lastmodified":1636502606,
     "wof:name":"Belgrano II Base",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -197,10 +227,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -34.61668318840202,
-    -77.86632078187051,
-    -34.61668318840202,
-    -77.86632078187051
+    -34.616683,
+    -77.866321,
+    -34.616683,
+    -77.866321
 ],
-  "geometry": {"coordinates":[-34.61668318840202,-77.86632078187051],"type":"Point"}
+  "geometry": {"coordinates":[-34.616683,-77.866321],"type":"Point"}
 }

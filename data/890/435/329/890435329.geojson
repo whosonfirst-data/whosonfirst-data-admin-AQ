@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b2\u09ae\u09c7\u09b0 \u09b8\u09cd\u099f\u09c7\u09b6\u09a8"
+    ],
     "name:cat_x_preferred":[
         "Base Palmer"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:deu_x_preferred":[
         "Palmer-Station"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bb\u03bc\u03b5\u03c1 \u03a3\u03c4\u03ad\u03b9\u03c3\u03b9\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Palmer Station (United States)"
@@ -46,14 +52,29 @@
     "name:heb_x_preferred":[
         "\u05ea\u05d7\u05e0\u05ea \u05e4\u05d0\u05dc\u05de\u05e8"
     ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u092e\u0930 \u0938\u094d\u091f\u0947\u0936\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Palmer Station"
+    ],
+    "name:ind_x_preferred":[
+        "Stasiun Palmer"
+    ],
     "name:ita_x_preferred":[
         "stazione Palmer"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30fc\u30de\u30fc\u57fa\u5730"
     ],
+    "name:kor_x_preferred":[
+        "\ud314\uba38 \uc2a4\ud14c\uc774\uc158"
+    ],
     "name:lav_x_preferred":[
         "P\u0101lmera"
+    ],
+    "name:nld_x_preferred":[
+        "Palmer Station"
     ],
     "name:nno_x_preferred":[
         "Palmer-stasjonen"
@@ -70,6 +91,9 @@
     "name:pol_x_preferred":[
         "Palmer"
     ],
+    "name:por_x_preferred":[
+        "Base Palmer"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u043c\u0435\u0440"
     ],
@@ -79,11 +103,20 @@
     "name:swe_x_preferred":[
         "Palmer Station"
     ],
+    "name:tur_x_preferred":[
+        "Palmer \u0130stasyonu"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043b\u043c\u0435\u0440"
     ],
     "name:und_x_variant":[
         "Palmer /USA/"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0644\u0645\u0631 \u0627\u0633\u0679\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m Palmer"
     ],
     "name:zho_x_preferred":[
         "\u5e15\u5c14\u9ed8\u7ad9"
@@ -212,7 +245,7 @@
         }
     ],
     "wof:id":890435329,
-    "wof:lastmodified":1587427745,
+    "wof:lastmodified":1636502605,
     "wof:name":"Palmer Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

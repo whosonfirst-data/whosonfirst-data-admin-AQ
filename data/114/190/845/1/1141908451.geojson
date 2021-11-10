@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.83843800403,-70.8903966771,-7.83843800403,-70.8903966771",
+    "geom:bbox":"-7.838438,-70.890397,-7.838438,-70.890397",
     "geom:latitude":-70.890397,
     "geom:longitude":-7.838438,
     "iso:country":"AQ",
@@ -18,6 +18,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0637\u0629 \u0646\u0648\u064a\u0645\u0627\u064a\u0631 \u0627\u0644\u062b\u0627\u0644\u062b\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09bf\u0989\u09ae\u09c7\u09df\u09be\u09b0 \u09b8\u09cd\u099f\u09c7\u09b6\u09a8 III"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03bf\u03c5\u03bc\u03ac\u03b3\u03b5\u03c1 \u03a3\u03c4\u03ad\u03b9\u03c3\u03b9\u03bf\u03bd \u0399\u0399\u0399"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u06af\u0627\u0647 \u0646\u06cc\u0648\u0645\u0627\u06cc\u0631 \u0633\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d7\u05e0\u05ea \u05e0\u05d5\u05e8\u05de\u05d9\u05d9\u05e8 III"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u094d\u092f\u0942\u092e\u0947\u092f\u0930 \u0938\u094d\u091f\u0947\u0936\u0928 III"
+    ],
+    "name:hun_x_preferred":[
+        "Neumayer Station III"
+    ],
+    "name:ind_x_preferred":[
+        "Stasiun Neumayer III"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\uc774\ub9c8\uc774\uc5b4 \uc2a4\ud14c\uc774\uc158 III"
+    ],
+    "name:por_x_preferred":[
+        "Base Neumayer III"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u043c\u0430\u0439\u0435\u0440 III"
+    ],
+    "name:tur_x_preferred":[
+        "Neumayer \u0130stasyonu III"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0446\u0456\u044f \u041d\u043e\u0439\u043c\u0430\u0454\u0440\u0430 \u0406\u0406\u0406"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0648\u0645\u0627\u0631 \u0627\u0633\u0679\u06cc\u0634\u0646 III"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m Neumayer III"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
     "ne:ADM0_A3":"ATA",
@@ -122,7 +167,7 @@
     "wof:concordances":{},
     "wof:country":"AQ",
     "wof:created":1499130904,
-    "wof:geomhash":"4362ed3642c7eea3e31a03e5b0ce91c0",
+    "wof:geomhash":"8f244a9813043841beb03ba3eee8717a",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -131,7 +176,7 @@
         }
     ],
     "wof:id":1141908451,
-    "wof:lastmodified":1566587525,
+    "wof:lastmodified":1636502606,
     "wof:name":"Neumayer Station III",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -141,10 +186,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.83843800402576,
-    -70.89039667712046,
-    -7.83843800402576,
-    -70.89039667712046
+    -7.838438,
+    -70.890397,
+    -7.838438,
+    -70.890397
 ],
-  "geometry": {"coordinates":[-7.83843800402576,-70.89039667712046],"type":"Point"}
+  "geometry": {"coordinates":[-7.838438,-70.89039699999999],"type":"Point"}
 }

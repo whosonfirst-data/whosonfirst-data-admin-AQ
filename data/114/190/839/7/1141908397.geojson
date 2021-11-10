@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"164.219027062,-74.6191925882,164.219027062,-74.6191925882",
+    "geom:bbox":"164.219027,-74.619193,164.219027,-74.619193",
     "geom:latitude":-74.619193,
     "geom:longitude":164.219027,
     "iso:country":"AQ",
@@ -24,23 +24,47 @@
     "name:ast_x_preferred":[
         "Base Mario Zucchelli"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c1\u0995\u099a\u09c7\u09b2\u09cd\u09b2\u09bf \u09b8\u09cd\u099f\u09c7\u09b6\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Mario Zucchelli Station"
     ],
     "name:deu_x_preferred":[
         "Mario-Zucchelli-Station"
     ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03c5\u03ba\u03ad\u03bb\u03b9 \u03a3\u03c4\u03ad\u03b9\u03c3\u03b9\u03bf\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Zucchelli Station"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u06af\u0627\u0647 \u0632\u0648\u0686\u0644\u06cc"
+    ],
     "name:fra_x_preferred":[
         "station Mario Zucchelli"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d7\u05e0\u05ea \u05d6\u05d5\u05e6'\u05dc\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u0941\u0915\u0947\u0932\u0940 \u0938\u094d\u091f\u0947\u0936\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Zucchelli Station"
+    ],
+    "name:ind_x_preferred":[
+        "Stasiun Zucchelli"
     ],
     "name:ita_x_preferred":[
         "Stazione Mario Zucchelli"
     ],
     "name:jpn_x_preferred":[
         "Mario Zucchelli\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\uc8fc\uccbc\ub9ac \uc2a4\ud14c\uc774\uc158"
     ],
     "name:lav_x_preferred":[
         "Mariocukelli"
@@ -60,11 +84,26 @@
     "name:por_x_preferred":[
         "Esta\u00e7\u00e3o Zucchelli"
     ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u0447\u0435\u043b\u043b\u0438"
+    ],
     "name:spa_x_preferred":[
         "Base Mario Zucchelli"
     ],
     "name:swe_x_preferred":[
         "Mario Zucchelli"
+    ],
+    "name:tur_x_preferred":[
+        "Zucchelli \u0130stasyonu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0446\u0456\u044f \u0417\u0443\u043a\u043a\u0435\u043b\u0438"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0648\u06a9\u06cc\u0644\u06cc \u0627\u0633\u0679\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m Zucchelli"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
@@ -172,7 +211,7 @@
     },
     "wof:country":"AQ",
     "wof:created":1499130892,
-    "wof:geomhash":"0488d3e552fc693288402a8fd451fc60",
+    "wof:geomhash":"bd74a554c955bc4210431b1e6b6d354c",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -181,7 +220,7 @@
         }
     ],
     "wof:id":1141908397,
-    "wof:lastmodified":1566587531,
+    "wof:lastmodified":1636502611,
     "wof:name":"Zucchelli Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -191,10 +230,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    164.2190270616221,
-    -74.61919258818159,
-    164.2190270616221,
-    -74.61919258818159
+    164.219027,
+    -74.619193,
+    164.219027,
+    -74.619193
 ],
-  "geometry": {"coordinates":[164.21902706162211,-74.61919258818159],"type":"Point"}
+  "geometry": {"coordinates":[164.21902700000001,-74.619193],"type":"Point"}
 }

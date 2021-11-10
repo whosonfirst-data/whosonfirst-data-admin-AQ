@@ -809,6 +809,9 @@
         "\u5357\u6781\u6761\u7ea6\u5730\u533a"
     ],
     "name:zho_tw_x_preferred":[
+        "\u5357\u6975\u6d32"
+    ],
+    "name:zho_tw_x_variant":[
         "\u5357\u6975\u689d\u7d04\u5730\u5340"
     ],
     "name:zho_x_preferred":[
@@ -1018,7 +1021,7 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1617827613,
+    "wof:lastmodified":1636502604,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",

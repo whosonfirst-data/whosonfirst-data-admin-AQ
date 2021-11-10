@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-13.416711061,-73.0496122044,-13.416711061,-73.0496122044",
+    "geom:bbox":"-13.416711,-73.049612,-13.416711,-73.049612",
     "geom:latitude":-73.049612,
     "geom:longitude":-13.416711,
     "iso:country":"AQ",
@@ -22,7 +22,22 @@
         "\u548c\u4f50\u99c5"
     ],
     "name:kor_x_preferred":[
+        "\uc640\uc0ac \uc2a4\ud14c\uc774\uc158"
+    ],
+    "name:kor_x_variant":[
         "\uc640\uc0ac \uc5ed"
+    ],
+    "name:por_x_preferred":[
+        "Base Wasa"
+    ],
+    "name:tur_x_preferred":[
+        "Wasa \u0130stasyonu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0633\u0627 \u0627\u0633\u0679\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m Wasa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
@@ -128,7 +143,7 @@
     "wof:concordances":{},
     "wof:country":"AQ",
     "wof:created":1499130902,
-    "wof:geomhash":"1a10b0ddb68114170c35b424900d918f",
+    "wof:geomhash":"0adf5a604029fa80bb18f88ce89f6764",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -137,7 +152,7 @@
         }
     ],
     "wof:id":1141908443,
-    "wof:lastmodified":1566587527,
+    "wof:lastmodified":1636502608,
     "wof:name":"Wasa Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -147,10 +162,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -13.4167110610386,
-    -73.04961220437735,
-    -13.4167110610386,
-    -73.04961220437735
+    -13.416711,
+    -73.049612,
+    -13.416711,
+    -73.049612
 ],
-  "geometry": {"coordinates":[-13.4167110610386,-73.04961220437735],"type":"Point"}
+  "geometry": {"coordinates":[-13.416711,-73.049612],"type":"Point"}
 }

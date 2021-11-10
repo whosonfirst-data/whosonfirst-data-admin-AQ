@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0637\u0629 \u062f\u0648\u0645\u0648\u0646 \u062f\u0648 \u0623\u0648\u0631\u0641\u064a\u0644"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c1\u09ae\u09cb \u09a6\u09cd\u09af'\u0989\u09b0\u09ad\u09bf\u09b2\u09c7 \u09b8\u09cd\u099f\u09c7\u09b6\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Dumont d'Urville Station"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:deu_x_preferred":[
         "Dumont-d\u2019Urville-Station"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03c5\u03bc\u03cc\u03bd\u03c4 \u03bd\u03c4'\u039f\u03c5\u03c1\u03b2\u03af\u03bb \u03a3\u03c4\u03ad\u03b9\u03c3\u03b9\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Dumont d'Urville Station (France)"
@@ -40,8 +46,20 @@
     "name:eus_x_preferred":[
         "Dumont d'Urville basea"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u06af\u0627\u0647 \u062f\u0648\u0645\u0648\u0646\u062a \u062f\u06cc \u0627\u0648\u0631\u0648\u06cc\u0644"
+    ],
     "name:fra_x_preferred":[
         "base antarctique Dumont-d'Urville"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d7\u05e0\u05ea \u05d3\u05d5\u05de\u05d5\u05e0\u05d8 \u05d3'\u05d0\u05d5\u05e8\u05d5\u05d5\u05d9\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0941\u092e\u094b\u0902\u091f \u0921\u0947\u0909\u0930\u094d\u0935\u093f\u0932 \u0938\u094d\u091f\u0947\u0936\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Dumont d'Urville Station"
     ],
     "name:ind_x_preferred":[
         "Stasiun Dumont d'Urville"
@@ -54,6 +72,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c7\u30e5\u30e2\u30f3\u30fb\u30c7\u30e5\u30eb\u30f4\u30a3\u30eb\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\ub4a4\ubabd \ub354\ube4c \uc2a4\ud14c\uc774\uc158"
     ],
     "name:lav_x_preferred":[
         "Dimondirvila"
@@ -79,6 +100,9 @@
     "name:pol_x_preferred":[
         "Dumont d' Urville"
     ],
+    "name:por_x_preferred":[
+        "Base Dumont d'Urville"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u044e\u043c\u043e\u043d \u0434\u2019\u042e\u0440\u0432\u0438\u043b\u044c"
     ],
@@ -99,6 +123,12 @@
     ],
     "name:und_x_variant":[
         "Dumont d'Urville, Base"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0648\u0645\u0648\u0646\u0679 \u0688\u06cc \u0627\u0648\u0631\u0648\u0644\u06d2 \u0627\u0633\u0679\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m Dumont d'Urville"
     ],
     "name:zho_x_preferred":[
         "\u8fea\u8499\u00b7\u8fea\u7ef4\u5c14\u7ad9"
@@ -227,7 +257,7 @@
         }
     ],
     "wof:id":890421517,
-    "wof:lastmodified":1587427744,
+    "wof:lastmodified":1636502605,
     "wof:name":"Dumont d'Urville Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

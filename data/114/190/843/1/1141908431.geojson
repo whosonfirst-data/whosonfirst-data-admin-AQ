@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"62.8750007254,-67.6145203175,62.8750007254,-67.6145203175",
+    "geom:bbox":"62.875001,-67.61452,62.875001,-67.61452",
     "geom:latitude":-67.61452,
     "geom:longitude":62.875001,
     "iso:country":"AQ",
@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0637\u0629 \u0645\u0648\u0633\u0648\u0646"
+    ],
     "name:ast_x_preferred":[
         "Base Mawson"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u09b8\u09a8 \u09b8\u09cd\u099f\u09c7\u09b6\u09a8"
     ],
     "name:ceb_x_preferred":[
         "Mawson"
@@ -27,11 +33,29 @@
     "name:deu_x_preferred":[
         "Mawson-Station"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bf\u03c5\u03c3\u03bf\u03bd \u03a3\u03c4\u03ad\u03b9\u03c3\u03b9\u03bf\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Mawson Station"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u06af\u0627\u0647 \u0645\u0627\u0633\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "base antarctique Mawson"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d7\u05e0\u05ea \u05de\u05d5\u05e1\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0949\u0938\u0928 \u0938\u094d\u091f\u0947\u0936\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Mawson Station"
+    ],
+    "name:ind_x_preferred":[
+        "Stasiun Mawson"
     ],
     "name:ita_x_preferred":[
         "stazione Mawson"
@@ -41,6 +65,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10e3\u10e1\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\uc2a8 \uc2a4\ud14c\uc774\uc158"
     ],
     "name:lav_x_preferred":[
         "Mosona"
@@ -63,6 +90,9 @@
     "name:pol_x_preferred":[
         "Mawson Station"
     ],
+    "name:por_x_preferred":[
+        "Base Mawson"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0443\u0441\u043e\u043d"
     ],
@@ -77,6 +107,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0624\u0633\u0646 \u0633\u0679\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m Mawson"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u68ee\u7ad9"
@@ -187,7 +220,7 @@
     },
     "wof:country":"AQ",
     "wof:created":1499130900,
-    "wof:geomhash":"fc9549c9a184794c17e8051346191b68",
+    "wof:geomhash":"c45e02bf7182c6bdc007893bf8d9d54e",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -196,7 +229,7 @@
         }
     ],
     "wof:id":1141908431,
-    "wof:lastmodified":1566587526,
+    "wof:lastmodified":1636502607,
     "wof:name":"Mawson Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -206,10 +239,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    62.87500072543173,
-    -67.61452031754641,
-    62.87500072543173,
-    -67.61452031754641
+    62.875001,
+    -67.61452,
+    62.875001,
+    -67.61452
 ],
-  "geometry": {"coordinates":[62.87500072543173,-67.61452031754641],"type":"Point"}
+  "geometry": {"coordinates":[62.875001,-67.61452],"type":"Point"}
 }

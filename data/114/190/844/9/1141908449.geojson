@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-11.8502129048,-71.3012347468,-11.8502129048,-71.3012347468",
+    "geom:bbox":"-11.850213,-71.301235,-11.850213,-71.301235",
     "geom:latitude":-71.301235,
     "geom:longitude":-11.850213,
     "iso:country":"AQ",
@@ -67,7 +67,22 @@
         "Novolazarevskaja"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0446\u0456\u044f \u041d\u043e\u0432\u043e\u043b\u0430\u0437\u0430\u0440\u0435\u0432\u0441\u044c\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u043e\u043b\u0430\u0437\u0430\u0440\u0454\u0432\u0441\u044c\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0631\u0648\u0644\u0627\u0632\u0627\u0631\u06cc\u0648\u0633\u06a9\u0627\u06cc\u0627 \u0627\u0633\u0679\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m Novolazarevskaya"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8bfa\u6c83\u62c9\u624e\u5217\u592b\u65af\u5361\u4e9a\u7ad9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8afe\u6c83\u62c9\u624e\u5217\u592b\u65af\u5361\u4e9e\u7814\u7a76\u7ad9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
@@ -173,7 +188,7 @@
     "wof:concordances":{},
     "wof:country":"AQ",
     "wof:created":1499130904,
-    "wof:geomhash":"9987a48001ab6a5c817068322e25c97a",
+    "wof:geomhash":"d6108f6e6ff13e25bdd0932dbb938f19",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -182,7 +197,7 @@
         }
     ],
     "wof:id":1141908449,
-    "wof:lastmodified":1566587527,
+    "wof:lastmodified":1636502608,
     "wof:name":"Novolazarevskaya Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -192,10 +207,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -11.85021290477709,
-    -71.30123474679726,
-    -11.85021290477709,
-    -71.30123474679726
+    -11.850213,
+    -71.301235,
+    -11.850213,
+    -71.301235
 ],
-  "geometry": {"coordinates":[-11.85021290477709,-71.30123474679726],"type":"Point"}
+  "geometry": {"coordinates":[-11.850213,-71.30123500000001],"type":"Point"}
 }
