@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Base Troll"
+    ],
     "name:cat_x_preferred":[
         "Base Troll"
     ],
@@ -41,6 +44,9 @@
         "Troll research station",
         "Troll"
     ],
+    "name:eus_x_preferred":[
+        "Troll basea"
+    ],
     "name:fin_x_preferred":[
         "Troll"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:lav_x_preferred":[
         "Trolla"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0440\u043e\u043b"
     ],
     "name:nld_x_preferred":[
         "Troll"
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":1125978221,
-    "wof:lastmodified":1566587524,
+    "wof:lastmodified":1690850371,
     "wof:name":"Troll research station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

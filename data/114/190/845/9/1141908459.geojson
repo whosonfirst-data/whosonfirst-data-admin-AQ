@@ -24,8 +24,17 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b2\u0997\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cb II \u09ac\u09c7\u09b8"
     ],
+    "name:cat_x_preferred":[
+        "Base Belgrano"
+    ],
     "name:ceb_x_preferred":[
         "Belgrano II"
+    ],
+    "name:ceb_x_variant":[
+        "Belgrano"
+    ],
+    "name:deu_x_preferred":[
+        "Belgrano-II-Station"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b5\u03bb\u03b3\u03ba\u03c1\u03ac\u03bd\u03bf \u0399\u0399 \u039c\u03c0\u03ad\u03b9\u03c2"
@@ -39,8 +48,14 @@
     "name:fin_x_preferred":[
         "General Belgrano II"
     ],
+    "name:fin_x_variant":[
+        "General Belgrano"
+    ],
     "name:fra_x_preferred":[
         "base antarctique Belgrano II"
+    ],
+    "name:fra_x_variant":[
+        "base antarctique Belgrano-II"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e1\u05d9\u05e1 \u05d1\u05dc\u05d2\u05e8\u05e0\u05d5 II"
@@ -57,6 +72,9 @@
     "name:ita_x_preferred":[
         "Base dell'esercito generale Belgrano II"
     ],
+    "name:ita_x_variant":[
+        "Base dell'esercito generale Belgrano"
+    ],
     "name:jpn_x_preferred":[
         "\u3078\u30cd\u30e9\u30eb\u30fb\u30d9\u30eb\u30b0\u30e9\u30ceII\u57fa\u5730"
     ],
@@ -66,8 +84,17 @@
     "name:lav_x_preferred":[
         "Belgrano II"
     ],
+    "name:lav_x_variant":[
+        "Belgrano"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0437\u0430 \u0411\u0435\u043b\u0433\u0440\u0430\u043d\u043e"
+    ],
     "name:nld_x_preferred":[
         "General Belgrano II"
+    ],
+    "name:nld_x_variant":[
+        "General Belgrano"
     ],
     "name:nno_x_preferred":[
         "Belgrano II-basen"
@@ -75,20 +102,38 @@
     "name:nob_x_preferred":[
         "Belgrano II"
     ],
+    "name:nob_x_variant":[
+        "Belgrano"
+    ],
     "name:pol_x_preferred":[
         "Belgrano II"
+    ],
+    "name:pol_x_variant":[
+        "Belgrano"
     ],
     "name:por_x_preferred":[
         "Base Belgrano II"
     ],
+    "name:por_x_variant":[
+        "Base Belgrano"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u044c\u0433\u0440\u0430\u043d\u043e II"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043b\u044c\u0433\u0440\u0430\u043d\u043e"
     ],
     "name:spa_x_preferred":[
         "Base Belgrano II"
     ],
+    "name:spa_x_variant":[
+        "Base Belgrano"
+    ],
     "name:swe_x_preferred":[
         "Belgrano II"
+    ],
+    "name:swe_x_variant":[
+        "Belgrano"
     ],
     "name:tur_x_preferred":[
         "Belgrano II \u00dcss\u00fc"
@@ -96,11 +141,17 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u044c\u0491\u0440\u0430\u043d\u043e II"
     ],
+    "name:ukr_x_variant":[
+        "\u0411\u0435\u043b\u044c\u0491\u0440\u0430\u043d\u043e"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0644\u06af\u0631\u0627\u0646\u0648 II \u0628\u06cc\u0633"
     ],
     "name:vie_x_preferred":[
         "C\u0103n c\u1ee9 Belgrano II"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u683c\u62c9\u8bfa\u4e8c\u53f7\u7ad9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Antarctica",
@@ -217,7 +268,7 @@
         }
     ],
     "wof:id":1141908459,
-    "wof:lastmodified":1636502606,
+    "wof:lastmodified":1690850372,
     "wof:name":"Belgrano II Base",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

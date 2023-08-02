@@ -30,6 +30,9 @@
     "name:ceb_x_preferred":[
         "Mawson"
     ],
+    "name:dan_x_preferred":[
+        "Mawson Station"
+    ],
     "name:deu_x_preferred":[
         "Mawson-Station"
     ],
@@ -102,6 +105,9 @@
     "name:swe_x_preferred":[
         "Mawson Station"
     ],
+    "name:tur_x_preferred":[
+        "Mawson \u0130stasyonu"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0443\u0441\u043e\u043d"
     ],
@@ -110,6 +116,9 @@
     ],
     "name:vie_x_preferred":[
         "Tr\u1ea1m Mawson"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10dd\u10e3\u10e1\u10dd\u10dc\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u68ee\u7ad9"
@@ -229,7 +238,7 @@
         }
     ],
     "wof:id":1141908431,
-    "wof:lastmodified":1636502607,
+    "wof:lastmodified":1690850373,
     "wof:name":"Mawson Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

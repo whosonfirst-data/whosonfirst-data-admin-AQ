@@ -78,6 +78,9 @@
     "name:pol_x_preferred":[
         "Zhongshan"
     ],
+    "name:por_x_preferred":[
+        "Esta\u00e7\u00e3o Ant\u00e1rtica Zhongshan"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0436\u0443\u043d\u0448\u0430\u043d\u044c"
     ],
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":1141908423,
-    "wof:lastmodified":1636502607,
+    "wof:lastmodified":1690850372,
     "wof:name":"Zhongshan Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

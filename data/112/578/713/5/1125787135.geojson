@@ -37,6 +37,9 @@
     "name:fin_x_preferred":[
         "Mizuho"
     ],
+    "name:fra_x_preferred":[
+        "Base antarctique Mizuho"
+    ],
     "name:ita_x_preferred":[
         "Stazione Mizuho"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125787135,
-    "wof:lastmodified":1566587524,
+    "wof:lastmodified":1690850371,
     "wof:name":"Mizuho Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

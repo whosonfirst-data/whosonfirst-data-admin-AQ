@@ -25,6 +25,9 @@
     "name:ast_x_preferred":[
         "Base SANAE IV"
     ],
+    "name:ast_x_variant":[
+        "Base SANAE"
+    ],
     "name:deu_x_preferred":[
         "SANAE-IV-Station"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:spa_x_preferred":[
         "Base SANAE IV"
+    ],
+    "name:spa_x_variant":[
+        "Base SANAE"
     ],
     "name:und_x_variant":[
         "SANAE"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125787159,
-    "wof:lastmodified":1566587525,
+    "wof:lastmodified":1690850371,
     "wof:name":"SANAE IV",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
