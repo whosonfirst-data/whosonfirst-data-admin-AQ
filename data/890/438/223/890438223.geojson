@@ -37,6 +37,9 @@
     "name:ces_x_preferred":[
         "Pol\u00e1rn\u00ed stanice Amundsen-Scott"
     ],
+    "name:ces_x_variant":[
+        "Pol\u00e1rn\u00ed stanice Amundsen\u2013Scott"
+    ],
     "name:cym_x_preferred":[
         "Arsyllfa Amundsen\u2013Scott ym Mhegwn y De"
     ],
@@ -142,6 +145,9 @@
     "name:tur_x_preferred":[
         "Amundsen-Scott G\u00fcney Kutbu \u0130stasyonu"
     ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea1m Nam C\u1ef1c Amundsen-Scott"
+    ],
     "qs:name":"Amundsen-Scott South Pole Station",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":890438223,
-    "wof:lastmodified":1566587522,
+    "wof:lastmodified":1690850368,
     "wof:name":"Amundsen-Scott South Pole Station",
     "wof:parent_id":85681139,
     "wof:placetype":"locality",

@@ -55,6 +55,9 @@
     "name:lav_x_preferred":[
         "Novolazarevska"
     ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043b\u0430\u0437\u0430\u0440\u0435\u0432\u0441\u043a\u0430\u0458\u0430 \u0441\u0442\u0430\u043d\u0438\u0446\u0430"
+    ],
     "name:nld_x_preferred":[
         "Novolazarevskaja"
     ],
@@ -84,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Novolazarevskaja"
+    ],
+    "name:tur_x_preferred":[
+        "Novolazarevskaya \u0130stasyonu"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u043d\u0446\u0456\u044f \u041d\u043e\u0432\u043e\u043b\u0430\u0437\u0430\u0440\u0435\u0432\u0441\u044c\u043a\u0430"
@@ -230,7 +236,7 @@
         }
     ],
     "wof:id":890435319,
-    "wof:lastmodified":1636502605,
+    "wof:lastmodified":1690850370,
     "wof:name":"Novolazarevskaya Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

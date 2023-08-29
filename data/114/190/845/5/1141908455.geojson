@@ -27,6 +27,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c8\u09a4\u09cd\u09b0\u09c0 \u0985\u09a8\u09c1\u09b8\u09a8\u09cd\u09a7\u09be\u09a8 \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0"
     ],
+    "name:cat_x_preferred":[
+        "Base Maitri"
+    ],
     "name:ceb_x_preferred":[
         "Maitri Station"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:deu_x_preferred":[
         "Maitri Station"
+    ],
+    "name:deu_x_variant":[
+        "Maitri-Station"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u0390\u03c4\u03c1\u03b9 \u03a3\u03c4\u03ad\u03b9\u03c3\u03b9\u03bf\u03bd"
@@ -114,6 +120,9 @@
     ],
     "name:swe_x_preferred":[
         "Maitri"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c48\u0c24\u0c4d\u0c30\u0c3f"
     ],
     "name:tur_x_preferred":[
         "Maitri \u0130stasyonu"
@@ -259,7 +268,7 @@
         }
     ],
     "wof:id":1141908455,
-    "wof:lastmodified":1636502606,
+    "wof:lastmodified":1690850372,
     "wof:name":"Maitri Station",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

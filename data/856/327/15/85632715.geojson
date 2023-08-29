@@ -715,6 +715,9 @@
     "name:tir_x_preferred":[
         "\u12a0\u1295\u1273\u122d\u12ad\u1272\u12ab"
     ],
+    "name:tok_x_preferred":[
+        "ma Antasika"
+    ],
     "name:ton_x_preferred":[
         "\u02bbAnet\u0101tika"
     ],
@@ -1021,7 +1024,7 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1636502604,
+    "wof:lastmodified":1690850367,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",
