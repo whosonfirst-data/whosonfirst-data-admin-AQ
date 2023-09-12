@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6049.574676,
-    "geom:area_square_m":12259213968084.652344,
+    "geom:area_square_m":12259213968084.675781,
     "geom:bbox":"-180.0,-90.0,180.0,-60.516209",
     "geom:latitude":-80.508219,
     "geom:longitude":19.908399,
@@ -13,6 +13,9 @@
     "iso:country":"AQ",
     "itu:country_code":[
         "672"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "AQ"
@@ -976,6 +979,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"672",
     "statoids:ds":"",
     "statoids:fifa":"ROS",
@@ -1016,7 +1020,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"13bbf14261449ac18ad61aee4c55bdf6",
+    "wof:geomhash":"fc57b1a6d9e2d049cf10a2cf84da43a6",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -1024,12 +1028,12 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1690850367,
+    "wof:lastmodified":1694492216,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",
-    "wof:population":3802,
-    "wof:population_rank":4,
+    "wof:population":4490,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-aq",
     "wof:shortcode":"AQ",
     "wof:superseded_by":[],

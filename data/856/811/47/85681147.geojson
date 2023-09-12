@@ -6,12 +6,15 @@
     "edtf:deprecated":"2017-09-11",
     "edtf:inception":"uuuu",
     "geom:area":5.903259,
-    "geom:area_square_m":22637667715.874977,
+    "geom:area_square_m":22637663514.244026,
     "geom:bbox":"-171.901357,-83.226821,169.961681,-61.127048",
     "geom:latitude":-71.857438,
     "geom:longitude":-47.700276,
     "gp:id":0,
     "iso:country":"AQ",
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "lbl:latitude":-83.130828,
     "lbl:longitude":-169.712688,
     "lbl:min_zoom":8.0,
@@ -47,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"AQ",
-    "wof:geomhash":"e33fcc8cd755ecaece26ee38dbfe9bcf",
+    "wof:geomhash":"6498d9506fbbc233a867d635c52a46b5",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":85681147,
-    "wof:lastmodified":1627521477,
+    "wof:lastmodified":1694493126,
     "wof:name":"Minor islands of Antarctica",
     "wof:parent_id":85632715,
     "wof:placetype":"region",
