@@ -979,7 +979,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"672",
     "statoids:ds":"",
     "statoids:fifa":"ROS",
@@ -1028,7 +1028,7 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1694492216,
+    "wof:lastmodified":1694639669,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",
