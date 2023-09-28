@@ -1006,6 +1006,7 @@
         "gn:id":6697173,
         "gp:id":28289409,
         "hasc:id":"AQ",
+        "iso:code":"AQ",
         "m49:code":"010",
         "marc:id":"ay",
         "ne:adm0_a3":"ATA",
@@ -1014,6 +1015,7 @@
         "wd:id":"Q21590062",
         "wmo:id":"AA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AQ",
     "wof:country_alpha3":"ATA",
     "wof:geom_alt":[
@@ -1028,7 +1030,7 @@
         }
     ],
     "wof:id":85632715,
-    "wof:lastmodified":1694639669,
+    "wof:lastmodified":1695881328,
     "wof:name":"Antarctica",
     "wof:parent_id":102191579,
     "wof:placetype":"country",
